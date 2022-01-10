@@ -118,7 +118,7 @@
 	{
 		"abr": "meteor",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
@@ -208,11 +208,6 @@
 	{
 		"abr": "raid",
 		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
@@ -411,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 81
 }
