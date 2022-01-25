@@ -2072,7 +2072,7 @@
 	},
 	{
 		"abr": "incendiarylauncher",
-		"price": 567,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher"
 	},
@@ -3068,13 +3068,13 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -4736,7 +4736,7 @@
 	},
 	{
 		"abr": "plasmarifle",
-		"price": 4817,
+		"price": -10,
 		"category": "Federation weapons",
 		"defname": "AD_Sentinel"
 	},
@@ -5138,7 +5138,7 @@
 	},
 	{
 		"abr": "feralrocketlauncher",
-		"price": 667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Thumper"
 	},
@@ -5858,7 +5858,7 @@
 	},
 	{
 		"abr": "chargerocketlauncher",
-		"price": 11667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeRocketLauncher"
 	},
@@ -6788,7 +6788,7 @@
 	},
 	{
 		"abr": "grenadelauncher",
-		"price": 517,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_GrenadeLauncher"
 	},
@@ -7340,7 +7340,7 @@
 	},
 	{
 		"abr": "m319individualgrenadelauncher",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "M319_Individual_Grenade_Launcher"
 	},
@@ -7946,7 +7946,7 @@
 	},
 	{
 		"abr": "rocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_RocketLauncher"
 	},
@@ -8948,7 +8948,7 @@
 	},
 	{
 		"abr": "throwingrocks",
-		"price": 11,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Throwing_Rocks"
 	},
@@ -14179,48 +14179,6 @@
 		"defname": "Gun_RSThumper"
 	},
 	{
-		"abr": "advancedbionicarm",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTArm"
-	},
-	{
-		"abr": "advancedbionicdentures",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTDentures"
-	},
-	{
-		"abr": "advancedbionicear",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTEar"
-	},
-	{
-		"abr": "advancedbioniceye",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTEye"
-	},
-	{
-		"abr": "advancedbionicfoot",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTFoot"
-	},
-	{
-		"abr": "advancedbionichand",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTHand"
-	},
-	{
-		"abr": "advancedbionicleg",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTLeg"
-	},
-	{
 		"abr": "alphapoly",
 		"price": 195,
 		"category": "Raw resources",
@@ -14305,36 +14263,6 @@
 		"defname": "CMissileTurret"
 	},
 	{
-		"abr": "cyberneticheart",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTHeart"
-	},
-	{
-		"abr": "cybernetickidney",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTKidney"
-	},
-	{
-		"abr": "cyberneticliver",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTLiver"
-	},
-	{
-		"abr": "cyberneticlung",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTLung"
-	},
-	{
-		"abr": "cyberneticstomach",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTStomach"
-	},
-	{
 		"abr": "emrgturret",
 		"price": 6875,
 		"category": "Security",
@@ -14365,12 +14293,6 @@
 		"defname": "FloodLight"
 	},
 	{
-		"abr": "granitechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkGranite"
-	},
-	{
 		"abr": "guncomplex",
 		"price": 1142,
 		"category": "Security",
@@ -14381,12 +14303,6 @@
 		"price": 4000,
 		"category": "Apparel",
 		"defname": "Apparel_HC1Shield"
-	},
-	{
-		"abr": "limestonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkLimestone"
 	},
 	{
 		"abr": "longrangemissileturret",
@@ -14423,12 +14339,6 @@
 		"price": 1400,
 		"category": "Security",
 		"defname": "ShredderTurretGunManned"
-	},
-	{
-		"abr": "marblechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
 	},
 	{
 		"abr": "militarygradeturret",
@@ -14504,7 +14414,7 @@
 	},
 	{
 		"abr": "orionrocketlauncher",
-		"price": 1500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_OCRocket"
 	},
@@ -14537,12 +14447,6 @@
 		"price": 1192,
 		"category": "Security",
 		"defname": "RocketComplex"
-	},
-	{
-		"abr": "sandstonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkSandstone"
 	},
 	{
 		"abr": "1911aeroknox",
@@ -14855,7 +14759,1999 @@
 		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "TMC_SG_Sawnoff"
+	},
+	{
+		"abr": "serum",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Serum"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "ShredderTurretGun"
+	},
+	{
+		"abr": "silicon",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "Silicon"
+	},
+	{
+		"abr": "spas-12",
+		"price": 450,
+		"category": "Ranged weapons",
+		"defname": "TMC_SG_Spas"
+	},
+	{
+		"abr": "speedskinsuit",
+		"price": 4667,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSpeed"
+	},
+	{
+		"abr": "sr25",
+		"price": 933,
+		"category": "Ranged weapons",
+		"defname": "TMC_SR_SR25tmc"
+	},
+	{
+		"abr": "srs",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "TMC_SR_SRS"
+	},
+	{
+		"abr": "tankmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Race_Tank"
+	},
+	{
+		"abr": "titanium",
+		"price": 53,
+		"category": "Raw resources",
+		"defname": "Titanium"
+	},
+	{
+		"abr": "tmcweapontable",
+		"price": 358,
+		"category": "Production",
+		"defname": "TableTMC"
+	},
+	{
+		"abr": "ump45",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "TMC_SMG_UMP45tmc"
+	},
+	{
+		"abr": "vector9mm",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "TMC_SMG_Vector9mm"
+	},
+	{
+		"abr": "vectorcrb",
+		"price": 742,
+		"category": "Ranged weapons",
+		"defname": "TMC_SMG_VectorCRB"
+	},
+	{
+		"abr": "zaryastungrenade",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "TMC_Throwable_Zarya"
+	},
+	{
+		"abr": "acgl3grenadelauncher",
+		"price": 4425,
+		"category": "Security",
+		"defname": "Eccentric_Turret_M3ACGL"
+	},
+	{
+		"abr": "angelcombatuniform",
+		"price": 8333,
+		"category": "Eccentric",
+		"defname": "EccentricUniformCombat"
+	},
+	{
+		"abr": "angelguardianuniform",
+		"price": 10000,
+		"category": "Eccentric",
+		"defname": "EccentricUniformGuardian"
+	},
+	{
+		"abr": "angelleaderuniform",
+		"price": 10000,
+		"category": "Eccentric",
+		"defname": "EccentricUniformLeader"
+	},
+	{
+		"abr": "angeltechuniform",
+		"price": 8333,
+		"category": "Eccentric",
+		"defname": "EccentricUniformTech"
+	},
+	{
+		"abr": "angelworkeruniform",
+		"price": 6667,
+		"category": "Eccentric",
+		"defname": "EccentricUniformWorker"
+	},
+	{
+		"abr": "apsaraundersuit",
+		"price": 6667,
+		"category": "Eccentric",
+		"defname": "EccentricUndersuitApsara"
+	},
+	{
+		"abr": "arelundersuit",
+		"price": 9167,
+		"category": "Eccentric",
+		"defname": "EccentricUndersuitArel"
+	},
+	{
+		"abr": "autoclave",
+		"price": 1108,
+		"category": "Oil",
+		"defname": "Autoclave"
+	},
+	{
+		"abr": "caw5hedp",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_M5CAW"
+	},
+	{
+		"abr": "cgl1grenadelauncher",
+		"price": 3700,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_M1CGL"
+	},
+	{
+		"abr": "chemfuelpowerplant",
+		"price": 1208,
+		"category": "Oil",
+		"defname": "FuelPowerplant"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelHopper"
+	},
+	{
+		"abr": "chemfuelsiphon",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelSiphon"
+	},
+	{
+		"abr": "combathalo",
+		"price": 4167,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombat"
+	},
+	{
+		"abr": "combathalohelmet",
+		"price": 5000,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombatHelmet"
+	},
+	{
+		"abr": "combathalowithglasses",
+		"price": 4167,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombatGlasses"
+	},
+	{
+		"abr": "e15chargerifle",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E15CR"
+	},
+	{
+		"abr": "e16precisionchargerifle",
+		"price": 2883,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E16PR"
+	},
+	{
+		"abr": "e18designatedmarksmanrifle",
+		"price": 2808,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E18DMR"
+	},
+	{
+		"abr": "e9cchargecarbine",
+		"price": 2100,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E9C"
+	},
+	{
+		"abr": "granitechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkGranite"
+	},
+	{
+		"abr": "hanna'smonoscythe",
+		"price": 3758,
+		"category": "Melee weapons",
+		"defname": "Eccentric_Monoscythe_Hanna"
+	},
+	{
+		"abr": "hyperweaverefiner",
+		"price": 2075,
+		"category": "Oil",
+		"defname": "HyperweaveRefiner"
+	},
+	{
+		"abr": "l20cchargelmg",
+		"price": 3083,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_L20C"
+	},
+	{
+		"abr": "l32machinegun",
+		"price": 3058,
+		"category": "Security",
+		"defname": "Eccentric_Turret_L32MG"
+	},
+	{
+		"abr": "limestonechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkLimestone"
+	},
+	{
+		"abr": "m3rosethorn",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "Eccentric_Rosethorn"
+	},
+	{
+		"abr": "marblechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkMarble"
+	},
+	{
+		"abr": "nanoweaveapron",
+		"price": 2500,
+		"category": "Gear",
+		"defname": "EccentricApron"
+	},
+	{
+		"abr": "nanoweavehalf-apron",
+		"price": 2500,
+		"category": "Gear",
+		"defname": "EccentricApronHalf"
+	},
+	{
+		"abr": "10,5cmheshell",
+		"price": 167,
+		"category": "10,5cm leFH 16 ammo",
+		"defname": "Shell_105cm_HE_KA"
+	},
+	{
+		"abr": "10,5cmlefh16",
+		"price": 3217,
+		"category": "Security",
+		"defname": "Turret_leFH_16_KA"
+	},
+	{
+		"abr": "7,7cmapshell",
+		"price": 167,
+		"category": "7,7cm FK 96 n.A. ammo",
+		"defname": "Shell_77cm_AP_KA"
+	},
+	{
+		"abr": "7,7cmfk96n.a.",
+		"price": 2033,
+		"category": "Security",
+		"defname": "Turret_FK_96_KA"
+	},
+	{
+		"abr": "7,7cmheshell",
+		"price": 167,
+		"category": "7,7cm FK 96 n.A. ammo",
+		"defname": "Shell_77cm_HE_KA"
+	},
+	{
+		"abr": "adegancrystal(green)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_AdeganCrystal"
+	},
+	{
+		"abr": "alliancepilothelmet(blue)",
+		"price": 79,
+		"category": "Headgear",
+		"defname": "PJ_RebPilot_H_Blue"
+	},
+	{
+		"abr": "alliancepilothelmet(red)",
+		"price": 163,
+		"category": "Headgear",
+		"defname": "PJ_RebPilot_H_Red"
+	},
+	{
+		"abr": "ambansinperrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Amban_Rifle"
+	},
+	{
+		"abr": "ankarressapphire(dkblue)",
+		"price": 8333,
+		"category": "Saber crystals",
+		"defname": "PJ_AnkSapphire"
+	},
+	{
+		"abr": "arcsergeantphaseihelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_ARC1_Helmet"
+	},
+	{
+		"abr": "b-2superdroidwristblaster",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "B-2_Super_Droid_Wrist_Blaster"
+	},
+	{
+		"abr": "b-2superdroidwristcannon",
+		"price": 2183,
+		"category": "Ranged weapons",
+		"defname": "B-2_Super_Droid_Wrist_Cannon"
+	},
+	{
+		"abr": "baraboreingot(orange)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_BarabIngot"
+	},
+	{
+		"abr": "barky'sclanarmor",
+		"price": 10250,
+		"category": "Apparel",
+		"defname": "PJ_BarkMandoArmor"
+	},
+	{
+		"abr": "basicvibrocell",
+		"price": 3000,
+		"category": "Vibroblade motors",
+		"defname": "PJ_VibroMotorNorm"
+	},
+	{
+		"abr": "boxofmaximhmgrounds",
+		"price": 23,
+		"category": "Manufactured",
+		"defname": "MaximRounds"
+	},
+	{
+		"abr": "c96",
+		"price": 313,
+		"category": "Weapon",
+		"defname": "Gun_C96_KA"
+	},
+	{
+		"abr": "camojacket",
+		"price": 296,
+		"category": "Apparel",
+		"defname": "PJ_Reb_CamoJacket"
+	},
+	{
+		"abr": "colorcrystal(azure)",
+		"price": 150,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystalAzure"
+	},
+	{
+		"abr": "colorcrystal(blue)",
+		"price": 150,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystalBlue"
+	},
+	{
+		"abr": "colorcrystal(cyan)",
+		"price": 150,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystalCyan"
+	},
+	{
+		"abr": "colorcrystal(green)",
+		"price": 150,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystal"
+	},
+	{
+		"abr": "colorcrystal(purple)",
+		"price": 150,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystalPurple"
+	},
+	{
+		"abr": "colorcrystal(yellow)",
+		"price": 150,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystalYellow"
+	},
+	{
+		"abr": "commandokatarn-classarmor",
+		"price": 2575,
+		"category": "Apparel",
+		"defname": "Commando_Katarn_Armor"
+	},
+	{
+		"abr": "commandokatarn-classhelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "Commando_Katarn_Helmet"
+	},
+	{
+		"abr": "compositearmor",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_CompArmor"
+	},
+	{
+		"abr": "cryovibrocell",
+		"price": 5000,
+		"category": "Vibroblade motors",
+		"defname": "PJ_CryoCell"
+	},
+	{
+		"abr": "customhood",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_CustomHood"
+	},
+	{
+		"abr": "customjedirobe",
+		"price": 467,
+		"category": "Apparel",
+		"defname": "PJ_JFac_Robe"
+	},
+	{
+		"abr": "customsithrobes",
+		"price": 467,
+		"category": "Apparel",
+		"defname": "PJ_SithFac_Robe"
+	},
+	{
+		"abr": "damindcrystal(ltazure)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_DamindCrystal"
+	},
+	{
+		"abr": "dc-15blasterrifle",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_DC15Rifle"
+	},
+	{
+		"abr": "dc-15ablasterrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "DC-15A_Blaster_Rifle"
+	},
+	{
+		"abr": "dc-15sblastercarbine",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "DC-15S_Blaster_Carbine"
+	},
+	{
+		"abr": "dc15xsinperrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "DC15x_Sinper_Rifle"
+	},
+	{
+		"abr": "dc-17blasterpistol",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "DC-17_Blaster_Pistol"
+	},
+	{
+		"abr": "dc-17bblasterpistol",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "DC17B_Blaster_Pistol"
+	},
+	{
+		"abr": "dc-17mrepeatingblasterrifle",
+		"price": 4167,
+		"category": "Ranged weapons",
+		"defname": "DC-17M_Repeating_Blaster_Rifle"
+	},
+	{
+		"abr": "deathtrooperarmor",
+		"price": 7083,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorDT"
+	},
+	{
+		"abr": "deathtrooperarmor(cmd)",
+		"price": 7250,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorDTC"
+	},
+	{
+		"abr": "dh-17blasterpistol",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "PJ_DH17Blaster"
+	},
+	{
+		"abr": "dl-44blaster",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_DL44blaster"
+	},
+	{
+		"abr": "dlt-19heavyblasterrifle",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_DLT19Rifle"
+	},
+	{
+		"abr": "doublelightsaber(inquisitor)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Inquis"
+	},
+	{
+		"abr": "dp27lightmachinegun",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "DPTwentySeven"
+	},
+	{
+		"abr": "dragitecrystal(ltpurple)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_DragiteCrystal"
+	},
+	{
+		"abr": "droidekasblaster",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Droidekas_Blaster"
+	},
+	{
+		"abr": "dxr-6blastercarbine",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_DXR6Carb"
+	},
+	{
+		"abr": "e-11blasterrifle",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "PJ_E11Blaster"
+	},
+	{
+		"abr": "e-5blasterrifle",
+		"price": 2233,
+		"category": "Ranged weapons",
+		"defname": "E-5_Blaster_Rifle"
+	},
+	{
+		"abr": "e-5ssniperrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "E-5S_Sniper_Rifle"
+	},
+	{
+		"abr": "echanivibrosword",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "PJ_Vibrosword"
+	},
+	{
+		"abr": "ectoplasm",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_PJ_ForceGhostR"
+	},
+	{
+		"abr": "ee-3blastercarbine",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_EE3Carbine"
+	},
+	{
+		"abr": "ee-3carbinerifle",
+		"price": 2233,
+		"category": "Ranged weapons",
+		"defname": "EE-3_Carbine_Rifle"
+	},
+	{
+		"abr": "electrostaff",
+		"price": 2483,
+		"category": "Melee weapons",
+		"defname": "Electrostaff"
+	},
+	{
+		"abr": "eralamcrystal(silver)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_EralamCrystal"
+	},
+	{
+		"abr": "experimentalvibrocell",
+		"price": 8333,
+		"category": "Vibroblade motors",
+		"defname": "PJ_XXCell"
+	},
+	{
+		"abr": "fieldcap",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "Apparel_RAPeakCap"
+	},
+	{
+		"abr": "firkranncrystal(silver)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_FirkrannCrystal"
+	},
+	{
+		"abr": "gewehr98",
+		"price": 433,
+		"category": "Weapon",
+		"defname": "Gun_Gew_98_KA"
+	},
+	{
+		"abr": "gewehr98withbayonet",
+		"price": 533,
+		"category": "Weapon",
+		"defname": "Gun_Gew_98_Bayonet_KA"
+	},
+	{
+		"abr": "honorguardsaberstaff",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_JGuard"
+	},
+	{
+		"abr": "hurrikainecrystal(indigopurple)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_HurCrystal"
+	},
+	{
+		"abr": "hypersonicvibrocell",
+		"price": 5000,
+		"category": "Vibroblade motors",
+		"defname": "PJ_SonicCell"
+	},
+	{
+		"abr": "imperialcommandcap",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_ImpHat"
+	},
+	{
+		"abr": "imperialcommandcap",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_ImpHatBrn"
+	},
+	{
+		"abr": "imperialcommandcap(black)",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_ImpHatB"
+	},
+	{
+		"abr": "imperialcommandcap(dark)",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_ImpSTOHat"
+	},
+	{
+		"abr": "imperialcredit",
+		"price": 0,
+		"category": "Raw resources",
+		"defname": "PJ_ImperialCredit"
+	},
+	{
+		"abr": "imperialisbuniform(outer)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpUniformISBSHELL"
+	},
+	{
+		"abr": "imperialnavyhelm",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_ImpNavyH"
+	},
+	{
+		"abr": "imperialnavyuniform(inner-black)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpUniformBlack"
+	},
+	{
+		"abr": "imperialnavyuniform(outer-black)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpUniformBlackSHELL"
+	},
+	{
+		"abr": "imperialnavyuniform(outer-brown)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpUniformBrownSHELL"
+	},
+	{
+		"abr": "imperialnavyuniform(outer-dark)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpNAVYSHELL"
+	},
+	{
+		"abr": "imperialnavyuniform(outer-green)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpUniformGrnSHELL"
+	},
+	{
+		"abr": "imperialuniformbodysuit(inner-mesh)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_ImpUniform"
+	},
+	{
+		"abr": "jawaionrifle",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_JawaIon"
+	},
+	{
+		"abr": "jedigarb",
+		"price": 197,
+		"category": "Apparel",
+		"defname": "PJ_InnerRobes"
+	},
+	{
+		"abr": "jedihood",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_JediHood"
+	},
+	{
+		"abr": "jedirobe",
+		"price": 458,
+		"category": "Apparel",
+		"defname": "PJ_Jedi_Robe"
+	},
+	{
+		"abr": "kaiburrcrystal(red-orange)",
+		"price": 8333,
+		"category": "Saber crystals",
+		"defname": "PJ_KaiburrCrystal"
+	},
+	{
+		"abr": "kaisermachiningtable",
+		"price": 608,
+		"category": "Production",
+		"defname": "TableKA"
+	},
+	{
+		"abr": "kraytdragonpearl(black)",
+		"price": 8333,
+		"category": "Saber crystals",
+		"defname": "PJ_BlackPearl"
+	},
+	{
+		"abr": "launcherpistol",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_LauncherP"
+	},
+	{
+		"abr": "lightsaber(ahsokatano)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Ahsokasaber"
+	},
+	{
+		"abr": "lightsaber(crosshilt)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_KyloSaber"
+	},
+	{
+		"abr": "lightsaber(curvedhilt)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_DookuSaber"
+	},
+	{
+		"abr": "lightsaber(darksaber)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Darksaber"
+	},
+	{
+		"abr": "lightsaber(double)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Doublesaber"
+	},
+	{
+		"abr": "lightsaber(electrumhilt)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_ElectrumSaber"
+	},
+	{
+		"abr": "lightsaber(macewindu)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_MaceSaber"
+	},
+	{
+		"abr": "lightsaber(oldstylehilt)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_ObiSaber"
+	},
+	{
+		"abr": "lightsaber(prototype)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Lightsaber"
+	},
+	{
+		"abr": "lightsaber(qui-gonjinn)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Quigon"
+	},
+	{
+		"abr": "lightsaber(yoda)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_Yodasaber"
+	},
+	{
+		"abr": "lightsabercasing",
+		"price": 500,
+		"category": "Items",
+		"defname": "PJ_SaberCasing"
+	},
+	{
+		"abr": "lightsaberinternalcomponents",
+		"price": 500,
+		"category": "Items",
+		"defname": "PJ_SaberInternal"
+	},
+	{
+		"abr": "lightsaberpike",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "SWSaber_SaberPike"
+	},
+	{
+		"abr": "m1873säbel",
+		"price": 292,
+		"category": "Weapon",
+		"defname": "MeleeWeapon_Sabel"
+	},
+	{
+		"abr": "m1887feldspaten",
+		"price": 125,
+		"category": "Weapon",
+		"defname": "MeleeWeapon_Feldspaten"
+	},
+	{
+		"abr": "m1915stielhandgranate",
+		"price": 375,
+		"category": "Weapon",
+		"defname": "Weapon_M1915_KA"
+	},
+	{
+		"abr": "m1916selbstlader",
+		"price": 733,
+		"category": "Weapon",
+		"defname": "Gun_M1916_Selbstlader_KA"
+	},
+	{
+		"abr": "mandoarmor",
+		"price": 10083,
+		"category": "Apparel",
+		"defname": "PJ_MandoArmor"
+	},
+	{
+		"abr": "mandohelm",
+		"price": 2533,
+		"category": "Headgear",
+		"defname": "PJ_MandoHelm"
+	},
+	{
+		"abr": "mandoveteranarmor",
+		"price": 10250,
+		"category": "Apparel",
+		"defname": "PJ_VetMandoArmor"
+	},
+	{
+		"abr": "mandovibrocleaver",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "PJ_Vibrocleaver"
+	},
+	{
+		"abr": "mando'sblastercarbine",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Mando_Blaster_Carbine"
+	},
+	{
+		"abr": "mando'sheavyweapon",
+		"price": 3200,
+		"category": "Ranged weapons",
+		"defname": "Mando_Heavy_Weapon"
+	},
+	{
+		"abr": "meditationpad(jedi)",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "PJ_ForceMedPadJ"
+	},
+	{
+		"abr": "meditationpad(sith)",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "PJ_ForceMedPadS"
+	},
+	{
+		"abr": "mg08",
+		"price": 792,
+		"category": "Security",
+		"defname": "Turret_MG_08_KA"
+	},
+	{
+		"abr": "mg15n.a.",
+		"price": 908,
+		"category": "Weapon",
+		"defname": "Gun_MG_15_KA"
+	},
+	{
+		"abr": "modifiedshirt",
+		"price": 194,
+		"category": "Apparel",
+		"defname": "PJ_RebCollarShirt"
+	},
+	{
+		"abr": "mosinnagant-sniper",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "MosinSniper"
+	},
+	{
+		"abr": "mosinnagant-snipervariant",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "MosinSniperVariant"
+	},
+	{
+		"abr": "mosinnagant91/30",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "MosinNagant"
+	},
+	{
+		"abr": "mp18",
+		"price": 567,
+		"category": "Weapon",
+		"defname": "Gun_MP_18_KA"
+	},
+	{
+		"abr": "nagant1895pistol",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Nagant1895Pistol"
+	},
+	{
+		"abr": "nanoweavetacticalapron(hanna)",
+		"price": 4167,
+		"category": "Gear",
+		"defname": "EccentricLBEHanna"
+	},
+	{
+		"abr": "nanoweavetacticalgear",
+		"price": 4167,
+		"category": "Gear",
+		"defname": "EccentricLBEBasic"
+	},
+	{
+		"abr": "nanoweavetacticalgear(celani)",
+		"price": 4167,
+		"category": "Gear",
+		"defname": "EccentricLBECelani"
+	},
+	{
+		"abr": "nanoweavetacticalgear(gunner)",
+		"price": 4167,
+		"category": "Gear",
+		"defname": "EccentricLBEGunner"
+	},
+	{
+		"abr": "nanoweavetechapron",
+		"price": 3333,
+		"category": "Gear",
+		"defname": "EccentricApronTech"
+	},
+	{
+		"abr": "nanoweavetechgear(foxy)",
+		"price": 3333,
+		"category": "Gear",
+		"defname": "EccentricLBEFoxy"
+	},
+	{
+		"abr": "napalmbomb",
+		"price": 350,
+		"category": "Oil",
+		"defname": "NapalmBomb"
+	},
+	{
+		"abr": "napalmrefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "NapalmRefiner"
+	},
+	{
+		"abr": "napalmshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Napalm"
+	},
+	{
+		"abr": "neutroaminerefiner",
+		"price": 1583,
+		"category": "Oil",
+		"defname": "NeutroamineRefiner"
+	},
+	{
+		"abr": "nym'sslugthrower",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_NymSlug"
+	},
+	{
+		"abr": "p08",
+		"price": 425,
+		"category": "Weapon",
+		"defname": "Gun_P08_KA"
+	},
+	{
+		"abr": "p08artillerie",
+		"price": 475,
+		"category": "Weapon",
+		"defname": "Gun_P08_Artillerie_KA"
+	},
+	{
+		"abr": "p12chargepdw",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_P12PDW"
+	},
+	{
+		"abr": "p17sentrygun",
+		"price": 2167,
+		"category": "Security",
+		"defname": "Eccentric_Turret_P17SG"
+	},
+	{
+		"abr": "phaseiarccaptainarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_ARC3_Armor"
+	},
+	{
+		"abr": "phaseiarccaptainhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_ARC3_Helmet"
+	},
+	{
+		"abr": "phaseiarccommanderarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_ARC4_Armor"
+	},
+	{
+		"abr": "phaseiarccommanderhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_ARC4_Helmet"
+	},
+	{
+		"abr": "phaseiarclieutenantarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_ARC2_Armor"
+	},
+	{
+		"abr": "phaseiarclieutenanthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_ARC2_Helmet"
+	},
+	{
+		"abr": "phaseiarcsergeantarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_ARC1_Armor"
+	},
+	{
+		"abr": "phaseiarfhelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "PhaseI_ARF_Helmet"
+	},
+	{
+		"abr": "phaseicaptainarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_Captain_Armor"
+	},
+	{
+		"abr": "phaseicaptainhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_Captain_Helmet"
+	},
+	{
+		"abr": "phaseicoldassaultarmor",
+		"price": 2550,
+		"category": "Apparel",
+		"defname": "PhaseI_ColdAssault_Armor"
+	},
+	{
+		"abr": "phaseicoldassaulthelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "PhaseI_ColdAssaultPhaseI_Helmet"
+	},
+	{
+		"abr": "phaseicommanderarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_Commander_Armor"
+	},
+	{
+		"abr": "phaseicommanderhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_Commander_Helmet"
+	},
+	{
+		"abr": "phaseilieutenantarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_Lieutenant_Armor"
+	},
+	{
+		"abr": "phaseilieutenanthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_Lieutenant_Helmet"
+	},
+	{
+		"abr": "phaseipilothelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "PhaseI_Pilot_Helmet"
+	},
+	{
+		"abr": "phaseisergeantarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_Sergeant_Armor"
+	},
+	{
+		"abr": "phaseisergeanthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_Sergeant_Helmet"
+	},
+	{
+		"abr": "phaseispecialopshelmet",
+		"price": 1108,
+		"category": "Headgear",
+		"defname": "PhaseI_Special_Ops_Helmet"
+	},
+	{
+		"abr": "phaseistandardarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "PhaseI_Standard_Armor"
+	},
+	{
+		"abr": "phaseistandardhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseI_Standard_Helmet"
+	},
+	{
+		"abr": "phaseii104tharmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_104th_Armor"
+	},
+	{
+		"abr": "phaseii104thboosthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_104th_Boost_Helmet"
+	},
+	{
+		"abr": "phaseii104thhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_104th_Helmet"
+	},
+	{
+		"abr": "phaseii104thsinkerhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_104th_Sinker_Helmet"
+	},
+	{
+		"abr": "phaseii104thwolffearmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_104th_Wolffe_Armor"
+	},
+	{
+		"abr": "phaseii104thwolffehelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_104th_Wolffe_Helmet"
+	},
+	{
+		"abr": "phaseii187tharmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_187th_Armor"
+	},
+	{
+		"abr": "phaseii187thcommanderarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_187th_Commander_Armor"
+	},
+	{
+		"abr": "phaseii187thcommanderhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_187th_Commander_Helmet"
+	},
+	{
+		"abr": "phaseii187thhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_187th_Helmet"
+	},
+	{
+		"abr": "phaseii212thairbornearmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Airborne_Armor"
+	},
+	{
+		"abr": "phaseii212thairbornehelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Airborne_Helmet"
+	},
+	{
+		"abr": "phaseii212tharmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Armor"
+	},
+	{
+		"abr": "phaseii212thboilhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Boil_Helmet"
+	},
+	{
+		"abr": "phaseii212thcodyarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Cody_Armor"
+	},
+	{
+		"abr": "phaseii212thcodyhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Cody_Helmet"
+	},
+	{
+		"abr": "phaseii212thhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_212th_Helmet"
+	},
+	{
+		"abr": "phaseii21stbacaraarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Bacara_Armor"
+	},
+	{
+		"abr": "phaseii21stgalacticmarinesarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_GalacticMarines_Armor"
+	},
+	{
+		"abr": "phaseii21stgalacticmarineshelmet",
+		"price": 1125,
+		"category": "Headgear",
+		"defname": "PhaseII_GalacticMarines_Helmet"
+	},
+	{
+		"abr": "phaseii327tharmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_Armor"
+	},
+	{
+		"abr": "phaseii327thbarchelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_BARC_Helmet"
+	},
+	{
+		"abr": "phaseii327thblyarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_Bly_Armor"
+	},
+	{
+		"abr": "phaseii327thblyhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_Bly_Helmet"
+	},
+	{
+		"abr": "phaseii327thdevissarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_Deviss_Armor"
+	},
+	{
+		"abr": "phaseii327thdevisshelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_Deviss_Helmet"
+	},
+	{
+		"abr": "phaseii327thhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_327th_Helmet"
+	},
+	{
+		"abr": "phaseii332ndarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Armor"
+	},
+	{
+		"abr": "phaseii332ndfourhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Four_Helmet"
+	},
+	{
+		"abr": "phaseii332ndhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Helmet"
+	},
+	{
+		"abr": "phaseii332ndthreearmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Three_Armor"
+	},
+	{
+		"abr": "phaseii332ndthreehelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Three_Helmet"
+	},
+	{
+		"abr": "phaseii332ndtwoarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Two_Armor"
+	},
+	{
+		"abr": "phaseii332ndtwohelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_332nd_Two_Helmet"
+	},
+	{
+		"abr": "phaseii41starmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Armor"
+	},
+	{
+		"abr": "phaseii41stcamoarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Camo_Armor"
+	},
+	{
+		"abr": "phaseii41stcamohelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Camo_Helmet"
+	},
+	{
+		"abr": "phaseii41stgreearmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Gree_Armor"
+	},
+	{
+		"abr": "phaseii41stgreehelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Gree_Helmet"
+	},
+	{
+		"abr": "phaseii41stscouthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Scout_Helmet"
+	},
+	{
+		"abr": "phaseii501starmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Armor"
+	},
+	{
+		"abr": "phaseii501stfivesarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Fives_Armor"
+	},
+	{
+		"abr": "phaseii501stfiveshelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Fives_Helmet"
+	},
+	{
+		"abr": "phaseii501sthardcasearmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Hardcase_Armor"
+	},
+	{
+		"abr": "phaseii501sthardcasehelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Hardcase_Helmet"
+	},
+	{
+		"abr": "phaseii501sthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Helmet"
+	},
+	{
+		"abr": "phaseii501strexarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Rex_Armor"
+	},
+	{
+		"abr": "phaseii501strexhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_501st_Rex_Helmet"
+	},
+	{
+		"abr": "phaseiiarc1helmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_ARC1_Helmet"
+	},
+	{
+		"abr": "phaseiiarfhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_ARF_Helmet"
+	},
+	{
+		"abr": "phaseiiat-rthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_AT-RT_Helmet"
+	},
+	{
+		"abr": "phaseiibarchelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_BARC_Helmet"
+	},
+	{
+		"abr": "phaseiicoldassaultarmor",
+		"price": 2258,
+		"category": "Headgear",
+		"defname": "PhaseII_ColdAssault_Armor"
+	},
+	{
+		"abr": "phaseiicoldasssaulthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_ColdAssault_Helmet"
+	},
+	{
+		"abr": "phaseiidesertarmor",
+		"price": 2258,
+		"category": "Headgear",
+		"defname": "PhaseII_Desert_Armor"
+	},
+	{
+		"abr": "phaseiideserthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Desert_Helmet"
+	},
+	{
+		"abr": "phaseiiengineerhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Engineer_Helmet"
+	},
+	{
+		"abr": "phaseiifoxarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_Fox_Armor"
+	},
+	{
+		"abr": "phaseiifoxhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_Fox_Helmet"
+	},
+	{
+		"abr": "phaseiiheavyhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Heavy_Helmet"
+	},
+	{
+		"abr": "phaseiihoundarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_Hound_Armor"
+	},
+	{
+		"abr": "phaseiihoundhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_Hound_Helmet"
+	},
+	{
+		"abr": "phaseiiopshelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Ops_Helmet"
+	},
+	{
+		"abr": "phaseiiparatrooperhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Paratrooper_Helmet"
+	},
+	{
+		"abr": "phaseiipilothelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Pilot_Helmet"
+	},
+	{
+		"abr": "phaseiipilotsuit",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Pilot_Suit"
+	},
+	{
+		"abr": "phaseiiscoutarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Scout_Armor"
+	},
+	{
+		"abr": "phaseiiscouthelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Scout_Helmet"
+	},
+	{
+		"abr": "phaseiishocktrooperarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_ShockTrooper_Armor"
+	},
+	{
+		"abr": "phaseiishocktrooperhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_ShockTrooper_Helmet"
+	},
+	{
+		"abr": "phaseiistandardarc1armor",
+		"price": 2258,
+		"category": "Headgear",
+		"defname": "PhaseII_ARC1_Armor"
+	},
+	{
+		"abr": "phaseiistandardarc2armor",
+		"price": 2258,
+		"category": "Headgear",
+		"defname": "PhaseII_ARC2_Armor"
+	},
+	{
+		"abr": "phaseiistandardarc3armor",
+		"price": 2258,
+		"category": "Headgear",
+		"defname": "PhaseII_ARC3_Armor"
+	},
+	{
+		"abr": "phaseiistandardarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Standard_Armor"
+	},
+	{
+		"abr": "phaseiistandardhelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Standard_Helmet"
+	},
+	{
+		"abr": "phaseiithirearmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_Thire_Armor"
+	},
+	{
+		"abr": "phaseiithirehelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "PhaseII_Guard_Thire_Helmet"
+	},
+	{
+		"abr": "phaseii41stscoutarmor",
+		"price": 2108,
+		"category": "Headgear",
+		"defname": "PhaseII_41st_Scout_Armor"
+	},
+	{
+		"abr": "pipelinevalve",
+		"price": 50,
+		"category": "Oil",
+		"defname": "pipelineValve"
+	},
+	{
+		"abr": "pontitecrystal(iceblue)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_PontiteCrystal"
+	},
+	{
+		"abr": "ppshmodel41drum",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "PPSh"
+	},
+	{
+		"abr": "rebelalliancehelmet",
+		"price": 162,
+		"category": "Headgear",
+		"defname": "PJ_RebHat"
+	},
+	{
+		"abr": "rebelallianceofficeruniform",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "PJ_RebOfficer"
+	},
+	{
+		"abr": "rebelb-wingflightsuit",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "PJ_RebBFlight"
+	},
+	{
+		"abr": "rebelcoldhelmet",
+		"price": 155,
+		"category": "Headgear",
+		"defname": "PJ_RebSnowHat"
+	},
+	{
+		"abr": "rebelflightsuit",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "PJ_RebFlight"
+	},
+	{
+		"abr": "rebelscouthelmet(brown)",
+		"price": 162,
+		"category": "Headgear",
+		"defname": "PJ_RebLAVHat"
+	},
+	{
+		"abr": "rebelscouthelmet(forest)",
+		"price": 162,
+		"category": "Headgear",
+		"defname": "PJ_RebScoutHat"
+	},
+	{
+		"abr": "redarmytunic",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Apparel_RAInfantry"
+	},
+	{
+		"abr": "redarmytunic-guardsrifle",
+		"price": 925,
+		"category": "Apparel",
+		"defname": "Apparel_RAGuards"
+	},
+	{
+		"abr": "refineryunloadingbay",
+		"price": 49,
+		"category": "Oil",
+		"defname": "RefineryLoadingBay"
+	},
+	{
+		"abr": "reinforcedarmorvest",
+		"price": 642,
+		"category": "Apparel",
+		"defname": "PJ_Apparel_XVestPlate"
+	},
+	{
+		"abr": "resourceconsole",
+		"price": 642,
+		"category": "Oil",
+		"defname": "ResourceConsole"
+	},
+	{
+		"abr": "rg-42",
+		"price": 667,
+		"category": "Grenades",
+		"defname": "Weapon_RGFortyTwo"
+	},
+	{
+		"abr": "rubatcrystal(bronze)",
+		"price": 5000,
+		"category": "Saber crystals",
+		"defname": "PJ_RubatCrystal"
+	},
+	{
+		"abr": "s8chargepistol",
+		"price": 942,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_S8P"
+	},
+	{
+		"abr": "s98/05bayonet",
+		"price": 97,
+		"category": "Weapon",
+		"defname": "MeleeWeapon_S98_05_KA"
+	},
+	{
+		"abr": "sandstonechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkSandstone"
+	},
+	{
+		"abr": "scoutblaster",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_Scoutblaster"
+	},
+	{
+		"abr": "scoutjacket",
+		"price": 229,
+		"category": "Apparel",
+		"defname": "PJ_Reb_ScoutJacket"
+	},
+	{
+		"abr": "scoutjacket(brown)",
+		"price": 229,
+		"category": "Apparel",
+		"defname": "PJ_Reb_ScoutLAVJacket"
+	},
+	{
+		"abr": "scouttrooperhelmet",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "PJ_SCTHelm"
+	},
+	{
+		"abr": "se14blaster",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_SE14blaster"
+	},
+	{
+		"abr": "se-14lightblasterpistol",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "SE-14_Light_Blaster_Pistol"
+	},
+	{
+		"abr": "seraphundersuit",
+		"price": 6667,
+		"category": "Eccentric",
+		"defname": "EccentricUndersuitSeraph"
+	},
+	{
+		"abr": "shoretrooperarmor",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorSh"
+	},
+	{
+		"abr": "shoretrooperarmor(cpt)",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorShC"
+	},
+	{
+		"abr": "shoretrooperarmor(sl)",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorShSL"
+	},
+	{
+		"abr": "shoretrooperhelm",
+		"price": 1333,
+		"category": "Headgear",
+		"defname": "PJ_SHHelm"
+	},
+	{
+		"abr": "sithhood",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "PJ_SithHood"
+	},
+	{
+		"abr": "sithrobes",
+		"price": 458,
+		"category": "Apparel",
+		"defname": "PJ_Sith_Robe"
+	},
+	{
+		"abr": "slatechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkSlate"
+	},
+	{
+		"abr": "smallsovietsculpture",
+		"price": 350,
+		"category": "Art",
+		"defname": "SovietStatueSmall"
+	},
+	{
+		"abr": "sovietbanner",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "SovietBanner"
+	},
+	{
+		"abr": "sovietcloak",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "Apparel_ScoutCloak"
+	},
+	{
+		"abr": "sovietflag",
+		"price": 51,
+		"category": "Art",
+		"defname": "SovietFlag"
+	},
+	{
+		"abr": "specopsvibrocell",
+		"price": 8333,
+		"category": "Vibroblade motors",
+		"defname": "PJ_SpecOpsCell"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_StrelkyHelmet"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_GuardsHelmet"
+	},
+	{
+		"abr": "stormtrooperarmor",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmor"
+	},
+	{
+		"abr": "stormtrooperarmor(jo)",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorJO"
+	},
+	{
+		"abr": "stormtrooperarmor(nco)",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorNCO"
+	},
+	{
+		"abr": "stormtrooperarmor(so)",
+		"price": 6750,
+		"category": "Apparel",
+		"defname": "PJ_TroopArmorSO"
+	},
+	{
+		"abr": "stormtrooperhelm",
+		"price": 1333,
+		"category": "Headgear",
+		"defname": "PJ_STHelm"
+	},
+	{
+		"abr": "stormtrooperhelm",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "PJ_DTHelm"
+	},
+	{
+		"abr": "stormtrooperofficeruniform(inner)",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_STOffUniform"
+	},
+	{
+		"abr": "svt-40",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "SVTForty"
+	},
+	{
+		"abr": "synthamiderefiner",
+		"price": 1167,
+		"category": "Oil",
+		"defname": "SynthamideRefiner"
 	}
 	],
-	"total": 2491
+	"total": 2820
 }
