@@ -14971,12 +14971,6 @@
 		"defname": "Eccentric_Gun_E9C"
 	},
 	{
-		"abr": "granitechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkGranite"
-	},
-	{
 		"abr": "hanna'smonoscythe",
 		"price": 3758,
 		"category": "Melee weapons",
@@ -15001,22 +14995,10 @@
 		"defname": "Eccentric_Turret_L32MG"
 	},
 	{
-		"abr": "limestonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkLimestone"
-	},
-	{
 		"abr": "m3rosethorn",
 		"price": 450,
 		"category": "Melee weapons",
 		"defname": "Eccentric_Rosethorn"
-	},
-	{
-		"abr": "marblechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
 	},
 	{
 		"abr": "nanoweaveapron",
@@ -15458,7 +15440,7 @@
 	},
 	{
 		"abr": "imperialcredit",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "PJ_ImperialCredit"
 	},
@@ -16567,12 +16549,6 @@
 		"defname": "MeleeWeapon_S98_05_KA"
 	},
 	{
-		"abr": "sandstonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkSandstone"
-	},
-	{
 		"abr": "scoutblaster",
 		"price": 1725,
 		"category": "Ranged weapons",
@@ -16649,12 +16625,6 @@
 		"price": 458,
 		"category": "Apparel",
 		"defname": "PJ_Sith_Robe"
-	},
-	{
-		"abr": "slatechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkSlate"
 	},
 	{
 		"abr": "smallsovietsculpture",
@@ -16751,7 +16721,301 @@
 		"price": 1167,
 		"category": "Oil",
 		"defname": "SynthamideRefiner"
+	},
+	{
+		"abr": "syntheticcrystal(red)",
+		"price": 3000,
+		"category": "Saber crystals",
+		"defname": "PJ_KyberCrystalRed"
+	},
+	{
+		"abr": "synthreadrefiner",
+		"price": 808,
+		"category": "Oil",
+		"defname": "SynthreadRefiner"
+	},
+	{
+		"abr": "synthylenerefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "SynthyleneRefiner"
+	},
+	{
+		"abr": "t-21blasterrifle",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "PJ_T21Rifle"
+	},
+	{
+		"abr": "tiepilothelmet",
+		"price": 2033,
+		"category": "Headgear",
+		"defname": "PJ_TIEHelm"
+	},
+	{
+		"abr": "toni'ss8burstpistol",
+		"price": 1050,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_S8B_Toni"
+	},
+	{
+		"abr": "trooperjacket",
+		"price": 229,
+		"category": "Apparel",
+		"defname": "PJ_Reb_TroopJacket"
+	},
+	{
+		"abr": "tuskenvibrostaff",
+		"price": 21667,
+		"category": "Melee weapons",
+		"defname": "PJ_TStaff"
+	},
+	{
+		"abr": "ultimapearl(pale)",
+		"price": 8333,
+		"category": "Saber crystals",
+		"defname": "PJ_UltimaPearl"
+	},
+	{
+		"abr": "uncuredplasteel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "UncuredPlasteel"
+	},
+	{
+		"abr": "uncuredsynthamidecomposite",
+		"price": 3,
+		"category": "Synthamide",
+		"defname": "UncuredComposite"
+	},
+	{
+		"abr": "uniformpants",
+		"price": 209,
+		"category": "Apparel",
+		"defname": "PJ_Apparel_Pants"
+	},
+	{
+		"abr": "utilityhalo",
+		"price": 2500,
+		"category": "Headwear",
+		"defname": "EccentricFrillWorker"
+	},
+	{
+		"abr": "utilityhalohelmet",
+		"price": 3000,
+		"category": "Headwear",
+		"defname": "EccentricFrillWorkerHelmet"
+	},
+	{
+		"abr": "vibrodouble-blade",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "PJ_Vibrodouble"
+	},
+	{
+		"abr": "vibroscythe",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "PJ_VScythe"
+	},
+	{
+		"abr": "vibroaxe",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "PJ_Vibroaxe"
+	},
+	{
+		"abr": "vibrostaff",
+		"price": 21667,
+		"category": "Melee weapons",
+		"defname": "PJ_StaffX"
+	},
+	{
+		"abr": "vibrosword",
+		"price": 2608,
+		"category": "Melee weapons",
+		"defname": "Vibrosword"
+	},
+	{
+		"abr": "vodka",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "SovietVodka"
+	},
+	{
+		"abr": "westar-34blasterpistol",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Westar-34_Blaster_Pistol"
+	},
+	{
+		"abr": "westar-35blasterpistol",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Westar-35_Blaster_Pistol"
+	},
+	{
+		"abr": "westar-m5_blasterrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Westar-M5_Blaster_Rifle"
+	},
+	{
+		"abr": "wexflamethrower",
+		"price": 1383,
+		"category": "Weapon",
+		"defname": "Gun_WEX_KA"
+	},
+	{
+		"abr": "woodencanopy",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "WoodenCanopy"
+	},
+	{
+		"abr": "yellowflightsuit",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "PJ_GenFlight_Y"
+	},
+	{
+		"abr": "z6rotaryblastercannon",
+		"price": 5417,
+		"category": "Ranged weapons",
+		"defname": "Z6_Rotary_Blaster_Cannon"
+	},
+	{
+		"abr": "zis2",
+		"price": 1358,
+		"category": "Security",
+		"defname": "Turret_Zis"
+	},
+	{
+		"abr": "bionicrodianantenna",
+		"price": 908,
+		"category": "Bionic",
+		"defname": "StarWarsRaces_Rodian_BionicAntenna"
+	},
+	{
+		"abr": "bionictwi'leklekku",
+		"price": 908,
+		"category": "Bionic",
+		"defname": "StarWarsRaces_Twilek_BionicLekku"
+	},
+	{
+		"abr": "clothrodianantenna",
+		"price": 140,
+		"category": "Prosthetic",
+		"defname": "StarWarsRaces_Rodian_ProstheticAntenna"
+	},
+	{
+		"abr": "clothtogrutalekku",
+		"price": 140,
+		"category": "Prosthetic",
+		"defname": "StarWarsRaces_Togruta_ProstheticLekku"
+	},
+	{
+		"abr": "clothtwi'leklekku",
+		"price": 140,
+		"category": "Prosthetic",
+		"defname": "StarWarsRaces_Twilek_ProstheticLekku"
+	},
+	{
+		"abr": "commandobossarmor",
+		"price": 2575,
+		"category": "Apparel",
+		"defname": "Commando_Boss_Armor"
+	},
+	{
+		"abr": "commandobosshelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "Commando_Boss_Helmet"
+	},
+	{
+		"abr": "commandofixerarmor",
+		"price": 2575,
+		"category": "Apparel",
+		"defname": "Commando_Fixer_Armor"
+	},
+	{
+		"abr": "commandofixerhelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "Commando_Fixer_Helmet"
+	},
+	{
+		"abr": "commandoscorcharmor",
+		"price": 2575,
+		"category": "Apparel",
+		"defname": "Commando_Scorch_Armor"
+	},
+	{
+		"abr": "commandoscorchhelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "Commando_Scorch_Helmet"
+	},
+	{
+		"abr": "commandosevarmor",
+		"price": 2575,
+		"category": "Apparel",
+		"defname": "Commando_Sev_Armor"
+	},
+	{
+		"abr": "commandosevhelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "Commando_Sev_Helmet"
+	},
+	{
+		"abr": "ewok",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "StarWarsRaces_Ewok"
+	},
+	{
+		"abr": "ewokhood",
+		"price": 203,
+		"category": "Headgear",
+		"defname": "StarWarsRaces_Ewok_Hood"
+	},
+	{
+		"abr": "ewokmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_StarWarsRaces_Ewok"
+	},
+	{
+		"abr": "ewoktabard",
+		"price": 211,
+		"category": "Star Wars Races - Ewok",
+		"defname": "StarWarsRaces_Ewok_Parka"
+	},
+	{
+		"abr": "granitechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkGranite"
+	},
+	{
+		"abr": "humanlikeleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "StarWarsRaces_Leather_Humanlike"
+	},
+	{
+		"abr": "lekku",
+		"price": 317,
+		"category": "Natural",
+		"defname": "StarWarsRaces_Togruta_Thing_Lekku"
+	},
+	{
+		"abr": "lekku",
+		"price": 417,
+		"category": "Natural",
+		"defname": "StarWarsRaces_Twilek_Thing_Lekku"
 	}
 	],
-	"total": 2820
+	"total": 2864
 }

@@ -1134,20 +1134,32 @@
     "version": null
   },
   {
+    "author": "Foggy Morning",
+    "name": "Star Wars Races",
+    "steamId": "1662194938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lumi",
+    "name": "Star Wars Lights",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "JangoD'soul",
     "name": "[JDS] Star Wars BlasTech Industries",
     "steamId": null,
     "version": null
   },
   {
-    "author": "JangoD'soul",
-    "name": "[JDS] Star Wars Phase I Clone Armor",
+    "author": "Lady Elizabeth and JangoD'soul",
+    "name": "Star Wars Delta Squad",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Xen and Jecrell",
-    "name": "Star Wars - Factions (Continued)",
+    "author": "JangoD'soul",
+    "name": "[JDS] Star Wars Phase I Clone Armor",
     "steamId": null,
     "version": null
   },
@@ -1164,6 +1176,30 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Factions (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "StarWars - Storm Commando",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Lady Elizabeth and JangoD'soul",
+    "name": "Star Wars Senate Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "JangoD'soul",
     "name": "[JDS] Star Wars Phase II Clone Armor",
     "steamId": null,
@@ -1178,6 +1214,24 @@
   {
     "author": "bean",
     "name": "Red Army (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erok",
+    "name": "Lanterns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
     "steamId": null,
     "version": null
   }
