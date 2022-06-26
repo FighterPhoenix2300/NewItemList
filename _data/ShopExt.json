@@ -8035,13 +8035,9 @@
       "degree": 0
     },
     {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
       "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
+
       ],
       "conflicts": [
 
@@ -8051,26 +8047,52 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
+        "mod": "Vanilla Factions Expanded - Pirates",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
+
         ]
       },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1
+      "degree": 0
+    },
+    {
+      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "shellcasket",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     },
     {
       "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
@@ -8722,7 +8744,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "RimWorld",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8754,7 +8776,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8786,7 +8808,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8818,7 +8840,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8850,7 +8872,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8883,7 +8905,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8915,7 +8937,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8947,7 +8969,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -8979,7 +9001,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9011,7 +9033,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9043,7 +9065,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9076,7 +9098,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9108,7 +9130,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Monstergirl Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9136,7 +9158,7 @@
           "+3 Honor value",
           "+50 Leather amount"
         ],
-        "mod": "Kijin Race 2.0",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9156,7 +9178,7 @@
           "+45.0C Maximum comfortable temperature",
           "+25 Leather amount"
         ],
-        "mod": "Star Trek: Federation (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9176,7 +9198,7 @@
           "+45.0C Maximum comfortable temperature",
           "+25 Leather amount"
         ],
-        "mod": "Star Trek: Federation (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9191,28 +9213,28 @@
         "stats": [
           "+65.00 Mass",
           "+100% Flammability",
-          "+$2000 Market value",
-          "+4 Honor value",
+          "+$3000 Market value",
+          "+5 Honor value",
           "+75 Carrying capacity",
           "+100% Global learning factor",
           "+80% Psychic sensitivity",
           "+80% Rest rate multiplier",
-          "+80% Global work speed",
+          "+70% Global work speed",
           "+0 Foraged food amount",
-          "+100.00% Negotiation ability",
-          "+100.00% Social impact",
-          "+100.00% Trade price improvement",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
           "+40 Leather amount",
-          "+78% Pain shock threshold",
+          "+82% Pain shock threshold",
           "+30% Mental break threshold",
-          "+18.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+5.00 Move speed",
+          "+22.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+5.20 Move speed",
           "+95% Aiming time",
           "+10.0 Melee dodge chance",
           "+1.2 Melee hit chance"
         ],
-        "mod": "Nyaron race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9240,7 +9262,7 @@
           "+90% Plant work speed",
           "+90% Construction speed"
         ],
-        "mod": "Star Wars Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9262,7 +9284,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Star Wars Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9284,7 +9306,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Star Wars Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9306,7 +9328,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Star Wars Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9328,7 +9350,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Star Wars Races",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -9337,6 +9359,57 @@
       "enabled": true,
       "name": "Twi'lek",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+0 Honor value",
+          "+38.0C Maximum comfortable temperature",
+          "+4.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Hunger rate multiplier",
+          "+100% Eating speed",
+          "+0% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+99% Pain shock threshold",
+          "+20% Toxic sensitivity",
+          "+60% Psychic sensitivity",
+          "+0% Global learning factor",
+          "+0.00% Food poison chance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+80.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+30% Mental break threshold",
+          "+100% Global work speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical operation speed",
+          "+100% Medical surgery success chance",
+          "+100% Construction speed",
+          "+10% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This pawn is automaton designed by PnL Industry.",
+      "defName": "Paniel_Race",
+      "enabled": true,
+      "name": "Paniel",
+      "price": 3333
     }
   ]
 }
