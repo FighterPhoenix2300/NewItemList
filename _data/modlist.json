@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -45,7 +45,7 @@
     "author": "The Biomes Mod Team",
     "name": "Biomes! Core",
     "steamId": "2038000893",
-    "version": "2.0.0-beta"
+    "version": "1.3.60.5"
   },
   {
     "author": "The Biomes Mod Team",
@@ -55,9 +55,9 @@
   },
   {
     "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.3.0.3"
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
   },
   {
     "author": "UnlimitedHugs",
@@ -408,6 +408,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  ISOREX,  xrushha,  legodude17 and  Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  dninemfive and  Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": null,
@@ -432,6 +444,18 @@
     "version": null
   },
   {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Genetics Expanded - More Lab Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
@@ -442,12 +466,6 @@
     "name": "[KV] Call Trade Ships",
     "steamId": "2431840021",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "zymex",
-    "name": "Project RimFactory Revived",
-    "steamId": "2033979700",
-    "version": "2.6.5"
   },
   {
     "author": "Kiame Vivacity",
@@ -657,7 +675,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   {
     "author": "Trinity",
@@ -960,18 +978,6 @@
     "version": null
   },
   {
-    "author": "ALIEN",
-    "name": "Kaiser Armory [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bean",
-    "name": "Red Army (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kyrrisayo",
     "name": "Weapons+",
     "steamId": null,
@@ -1028,6 +1034,12 @@
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Extras - Angel Hairs",
     "steamId": null,
     "version": null
   },
@@ -1092,22 +1104,16 @@
     "version": null
   },
   {
-    "author": "Greep",
-    "name": "Raid Limiter (Continued)",
-    "steamId": "2373405081",
-    "version": "1.3.1"
+    "author": "Scherub",
+    "name": "Stonecutting Extended",
+    "steamId": "2571676542",
+    "version": "1.1.0.0"
   },
   {
     "author": "PinoChemicali and  Scherub",
     "name": "Skilled Stonecutting [1.3]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Scherub",
-    "name": "Stonecutting Extended",
-    "steamId": "2571676542",
-    "version": "1.1.0.0"
   },
   {
     "author": "Xen and Jecrell",
@@ -1152,6 +1158,12 @@
     "version": null
   },
   {
+    "author": "Josh Mate",
+    "name": "Better Traders",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1167,7 +1179,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.6"
+    "version": "6.2.0.8"
   },
   {
     "author": "SirRandoo",
@@ -1198,5 +1210,47 @@
     "name": "Puppeteer",
     "steamId": "2594873651",
     "version": "1.6.2.1"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.2.1.38"
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate SG-Rim and RimLantis: Tools",
+    "steamId": "2843729738",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate SG-Rim: Goa'uld Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate SG-Rim: Tau'ri Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CatCraftYT",
+    "name": "Stargates!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "Stargate RimLantis: Pegasus Expidition Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   }
 ]
