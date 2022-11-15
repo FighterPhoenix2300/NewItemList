@@ -172,6 +172,24 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
+    "description": null,
+    "name": "Purchase list",
+    "usage": "!purchaselist",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PurchaseList"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
     "description": "Gives a viewer some of your coins.",
     "name": "Gift coins",
     "usage": "!giftcoins <viewer> <amount>",
