@@ -6,6 +6,12 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -52,5 +58,71 @@
     "name": "Puppeteer",
     "steamId": "2594873651",
     "version": "1.6.3.0"
+  },
+  {
+    "author": "Cthanatos",
+    "name": "HaulTeleporter",
+    "steamId": "2892118549",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EdB",
+    "name": "[1.4 FORK] EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Chill the F*** Out",
+    "steamId": "2880668727",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2880481073",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Khorbos",
+    "name": "Go the F*** to Sleep - Forked",
+    "steamId": "2880337287",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Hanabishi",
+    "name": "In-wall coolers and vents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
   }
 ]

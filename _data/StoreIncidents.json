@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -204,6 +204,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 1000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -411,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 83
 }
