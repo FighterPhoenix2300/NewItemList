@@ -124,5 +124,41 @@
     "name": "Monstergirl Races",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca",
+    "name": "[LC] Consolidated Traits",
+    "steamId": "2879753009",
+    "version": "1.0.8335.14924"
+  },
+  {
+    "author": "Lyn the Cookie",
+    "name": "[LYN] Cookie Traits (No Cheats)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
   }
 ]
