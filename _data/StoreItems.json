@@ -3944,7 +3944,7 @@
 	},
 	{
 		"abr": "baphomet",
-		"price": 3083,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Baphomet"
 	},
@@ -3962,7 +3962,7 @@
 	},
 	{
 		"abr": "catgirl",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Catgirl"
 	},
@@ -3980,7 +3980,7 @@
 	},
 	{
 		"abr": "centaur",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Centaur"
 	},
@@ -3992,7 +3992,7 @@
 	},
 	{
 		"abr": "cowgirl",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Cowgirl"
 	},
@@ -4022,7 +4022,7 @@
 	},
 	{
 		"abr": "dragon",
-		"price": 3667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Dragon"
 	},
@@ -4058,7 +4058,7 @@
 	},
 	{
 		"abr": "forestfairy",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_ForestFairy"
 	},
@@ -4070,7 +4070,7 @@
 	},
 	{
 		"abr": "foxgirl",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Foxgirl"
 	},
@@ -4094,7 +4094,7 @@
 	},
 	{
 		"abr": "harpy",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Harpy"
 	},
@@ -4124,7 +4124,7 @@
 	},
 	{
 		"abr": "icefairy",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_IceFairy"
 	},
@@ -4160,7 +4160,7 @@
 	},
 	{
 		"abr": "slime",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Slime"
 	},
@@ -4196,7 +4196,7 @@
 	},
 	{
 		"abr": "thrumbogirl",
-		"price": 3667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Thrumbogirl"
 	},
@@ -4232,7 +4232,7 @@
 	},
 	{
 		"abr": "wolfgirl",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Wolfgirl"
 	},
@@ -4247,7 +4247,415 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_MG_Wolfgirl"
+	},
+	{
+		"abr": "bigshelf",
+		"price": 257,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": 321,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Furniture",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 52792,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 61100,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 218617,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "superpod",
+		"price": 6958,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "verybigshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "10,5cmheshell",
+		"price": 167,
+		"category": "10,5cm leFH 16 ammo",
+		"defname": "Shell_105cm_HE_KA"
+	},
+	{
+		"abr": "10,5cmlefh16",
+		"price": 3217,
+		"category": "Security",
+		"defname": "Turret_leFH_16_KA"
+	},
+	{
+		"abr": "7,7cmapshell",
+		"price": 167,
+		"category": "7,7cm FK 96 n.A. ammo",
+		"defname": "Shell_77cm_AP_KA"
+	},
+	{
+		"abr": "7,7cmfk96n.a.",
+		"price": 2033,
+		"category": "Security",
+		"defname": "Turret_FK_96_KA"
+	},
+	{
+		"abr": "7,7cmheshell",
+		"price": 167,
+		"category": "7,7cm FK 96 n.A. ammo",
+		"defname": "Shell_77cm_HE_KA"
+	},
+	{
+		"abr": "boxofmaximhmgrounds",
+		"price": 23,
+		"category": "Manufactured",
+		"defname": "MaximRounds"
+	},
+	{
+		"abr": "c96",
+		"price": 313,
+		"category": "Weapon",
+		"defname": "Gun_C96_KA"
+	},
+	{
+		"abr": "dp27lightmachinegun",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "DPTwentySeven"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "fencepostchemlamp",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Owl_Fencepost_Chemlamp"
+	},
+	{
+		"abr": "fencepostlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "Owl_Fencepost_Lamp"
+	},
+	{
+		"abr": "fieldcap",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "Apparel_RAPeakCap"
+	},
+	{
+		"abr": "gewehr98",
+		"price": 433,
+		"category": "Weapon",
+		"defname": "Gun_Gew_98_KA"
+	},
+	{
+		"abr": "gewehr98withbayonet",
+		"price": 533,
+		"category": "Weapon",
+		"defname": "Gun_Gew_98_Bayonet_KA"
+	},
+	{
+		"abr": "kaisermachiningtable",
+		"price": 608,
+		"category": "Production",
+		"defname": "TableKA"
+	},
+	{
+		"abr": "m1873säbel",
+		"price": 292,
+		"category": "Weapon",
+		"defname": "MeleeWeapon_Sabel"
+	},
+	{
+		"abr": "m1887feldspaten",
+		"price": 125,
+		"category": "Weapon",
+		"defname": "MeleeWeapon_Feldspaten"
+	},
+	{
+		"abr": "m1915stielhandgranate",
+		"price": 375,
+		"category": "Weapon",
+		"defname": "Weapon_M1915_KA"
+	},
+	{
+		"abr": "m1916selbstlader",
+		"price": 733,
+		"category": "Weapon",
+		"defname": "Gun_M1916_Selbstlader_KA"
+	},
+	{
+		"abr": "maximhmg",
+		"price": 1358,
+		"category": "Security",
+		"defname": "Turret_Maxim"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "mg08",
+		"price": 792,
+		"category": "Security",
+		"defname": "Turret_MG_08_KA"
+	},
+	{
+		"abr": "mg15n.a.",
+		"price": 908,
+		"category": "Weapon",
+		"defname": "Gun_MG_15_KA"
+	},
+	{
+		"abr": "mosinnagant-sniper",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "MosinSniper"
+	},
+	{
+		"abr": "mosinnagant-snipervariant",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "MosinSniperVariant"
+	},
+	{
+		"abr": "mosinnagant91/30",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "MosinNagant"
+	},
+	{
+		"abr": "mp18",
+		"price": 567,
+		"category": "Weapon",
+		"defname": "Gun_MP_18_KA"
+	},
+	{
+		"abr": "nagant1895pistol",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Nagant1895Pistol"
+	},
+	{
+		"abr": "p08",
+		"price": 425,
+		"category": "Weapon",
+		"defname": "Gun_P08_KA"
+	},
+	{
+		"abr": "p08artillerie",
+		"price": 475,
+		"category": "Weapon",
+		"defname": "Gun_P08_Artillerie_KA"
+	},
+	{
+		"abr": "ppshmodel41drum",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "PPSh"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "redarmytunic",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Apparel_RAInfantry"
+	},
+	{
+		"abr": "redarmytunic-guardsrifle",
+		"price": 925,
+		"category": "Apparel",
+		"defname": "Apparel_RAGuards"
+	},
+	{
+		"abr": "rg-42",
+		"price": 667,
+		"category": "Grenades",
+		"defname": "Weapon_RGFortyTwo"
+	},
+	{
+		"abr": "s98/05bayonet",
+		"price": 97,
+		"category": "Weapon",
+		"defname": "MeleeWeapon_S98_05_KA"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "smallsovietsculpture",
+		"price": 350,
+		"category": "Art",
+		"defname": "SovietStatueSmall"
+	},
+	{
+		"abr": "sovietbanner",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "SovietBanner"
+	},
+	{
+		"abr": "sovietcloak",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "Apparel_ScoutCloak"
+	},
+	{
+		"abr": "sovietflag",
+		"price": 51,
+		"category": "Art",
+		"defname": "SovietFlag"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_StrelkyHelmet"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_GuardsHelmet"
+	},
+	{
+		"abr": "svt-40",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "SVTForty"
 	}
 	],
-	"total": 708
+	"total": 782
 }
