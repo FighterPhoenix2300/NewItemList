@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -62,8 +72,8 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 7500,
-		"karmatype": "Doom"
+		"price": 500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
@@ -72,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 65000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -103,7 +113,7 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
@@ -117,12 +127,12 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 1000,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 35000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -207,17 +217,22 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 2000,
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,6 +242,11 @@
 	},
 	{
 		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -247,8 +267,8 @@
 	},
 	{
 		"abr": "disease",
-		"price": 10000,
-		"karmatype": "Doom"
+		"price": 1000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
@@ -301,6 +321,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -342,7 +367,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -357,7 +382,7 @@
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -411,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 87
 }
