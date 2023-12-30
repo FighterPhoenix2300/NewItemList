@@ -4559,7 +4559,127 @@
 		"price": 650,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zweihander"
+	},
+	{
+		"abr": "boxofmaximhmgrounds",
+		"price": 23,
+		"category": "Manufactured",
+		"defname": "MaximRounds"
+	},
+	{
+		"abr": "dp27lightmachinegun",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "DPTwentySeven"
+	},
+	{
+		"abr": "fieldcap",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "Apparel_RAPeakCap"
+	},
+	{
+		"abr": "maximhmg",
+		"price": 1358,
+		"category": "Security",
+		"defname": "Turret_Maxim"
+	},
+	{
+		"abr": "mosinnagant-sniper",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "MosinSniper"
+	},
+	{
+		"abr": "mosinnagant-snipervariant",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "MosinSniperVariant"
+	},
+	{
+		"abr": "mosinnagant91/30",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "MosinNagant"
+	},
+	{
+		"abr": "nagant1895pistol",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Nagant1895Pistol"
+	},
+	{
+		"abr": "ppshmodel41drum",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "PPSh"
+	},
+	{
+		"abr": "redarmytunic",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Apparel_RAInfantry"
+	},
+	{
+		"abr": "redarmytunic-guardsrifle",
+		"price": 925,
+		"category": "Apparel",
+		"defname": "Apparel_RAGuards"
+	},
+	{
+		"abr": "rg-42",
+		"price": 667,
+		"category": "Grenades",
+		"defname": "Weapon_RGFortyTwo"
+	},
+	{
+		"abr": "smallsovietsculpture",
+		"price": 350,
+		"category": "Art",
+		"defname": "SovietStatueSmall"
+	},
+	{
+		"abr": "sovietbanner",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "SovietBanner"
+	},
+	{
+		"abr": "sovietcloak",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "Apparel_ScoutCloak"
+	},
+	{
+		"abr": "sovietflag",
+		"price": 51,
+		"category": "Art",
+		"defname": "SovietFlag"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_StrelkyHelmet"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_GuardsHelmet"
+	},
+	{
+		"abr": "svt-40",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "SVTForty"
+	},
+	{
+		"abr": "vodka",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "SovietVodka"
 	}
 	],
-	"total": 760
+	"total": 781
 }
