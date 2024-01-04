@@ -4679,7 +4679,13 @@
 		"price": 42,
 		"category": "Drugs",
 		"defname": "SovietVodka"
-	}
+	},
+	{
+		"abr": "zis2",
+		"price": 1358,
+		"category": "Security",
+		"defname": "Turret_Zis"
+	},
 	],
 	"total": 781
 }
