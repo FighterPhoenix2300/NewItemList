@@ -4771,269 +4771,1541 @@
 		"defname": "Nr_Xeushammer"
 	},
 	{
-		"abr": "イヴリート",
-		"price": -10,
+		"abr": "haulingteleporter",
+		"price": 4,
+		"category": "Misc",
+		"defname": "HaulTeleporter"
+	},
+	{
+		"abr": "foxshrinemodel",
+		"price": 3242,
+		"category": "Furniture",
+		"defname": "Kyulen_Shrine"
+	},
+	{
+		"abr": "kyulen",
+		"price": 11667,
+		"category": "Animals",
+		"defname": "Ninetailfox"
+	},
+	{
+		"abr": "kyulen",
+		"price": 11667,
+		"category": "Animals",
+		"defname": "Ninetailfoxwt"
+	},
+	{
+		"abr": "kyulenbead",
+		"price": 1500,
+		"category": "Artifacts",
+		"defname": "Foxbead"
+	},
+	{
+		"abr": "kyulencloth",
+		"price": 667,
+		"category": "Apparel",
+		"defname": "Apparel_KyulenCloth"
+	},
+	{
+		"abr": "kyulenenergyshieldarmor",
+		"price": 1667,
+		"category": "Apparel",
+		"defname": "Apparel_Kyulen_ShieldArmor"
+	},
+	{
+		"abr": "kyulenguardianbell",
+		"price": 2692,
+		"category": "Utility",
+		"defname": "Apparel_Kyulen_ShieldBell"
+	},
+	{
+		"abr": "advancedblitzcombatrifle",
+		"price": 2908,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_AdvancedBlitzRifle"
+	},
+	{
+		"abr": "advancedblitzcombatsmg",
+		"price": 2692,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_AdvancedBlitzSMG"
+	},
+	{
+		"abr": "assaultantiheavyarmorbatteryrifle",
+		"price": 3592,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzAMR_C"
+	},
+	{
+		"abr": "assaultantiheavyarmorsupportrifle",
+		"price": 2850,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzSSR_B"
+	},
+	{
+		"abr": "assaultcombatfirepowersmg",
+		"price": 2158,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzSMG_B"
+	},
+	{
+		"abr": "assaultcombatskirtarmor",
+		"price": 2542,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_New_Windbreaker_E"
+	},
+	{
+		"abr": "ballista",
+		"price": 1117,
+		"category": "Security",
+		"defname": "RK_Ballista_Strait_Body"
+	},
+	{
+		"abr": "ballistabolt(ap)",
+		"price": 92,
+		"category": "Ballista bolt",
+		"defname": "BallistaBolt_AP"
+	},
+	{
+		"abr": "ballistabolt(he)",
+		"price": 92,
+		"category": "Ballista bolt",
+		"defname": "BallistaBolt_Heavy"
+	},
+	{
+		"abr": "ballistabolt(normal)",
+		"price": 92,
+		"category": "Ballista bolt",
+		"defname": "BallistaBolt_Normal"
+	},
+	{
+		"abr": "bfr3000",
+		"price": 3133,
+		"category": "Ranged weapons",
+		"defname": "RK_BFR"
+	},
+	{
+		"abr": "bionictail",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "RK_BionicTail"
+	},
+	{
+		"abr": "blitzanti-armorlmg",
+		"price": 4233,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzAMLMG"
+	},
+	{
+		"abr": "blitzanti-armorrifle",
+		"price": 3242,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzAMR"
+	},
+	{
+		"abr": "blitzcombatballisticplate",
+		"price": 442,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Middle"
+	},
+	{
+		"abr": "blitzcombatbelt",
+		"price": 608,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_BlitzBelt"
+	},
+	{
+		"abr": "blitzcombatrifle",
+		"price": 2092,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzRifle"
+	},
+	{
+		"abr": "blitzcombatsmg",
+		"price": 1817,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzSMG"
+	},
+	{
+		"abr": "blitzcombatsmokelauncher",
+		"price": 1467,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Component_E"
+	},
+	{
+		"abr": "blitzcombatsupportlmg",
+		"price": 3367,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzLMG"
+	},
+	{
+		"abr": "blitzcombatsupportrifle",
+		"price": 2108,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzSSR"
+	},
+	{
+		"abr": "blitzcombatuniform",
+		"price": 1367,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_Professional_Uniforms_D"
+	},
+	{
+		"abr": "bliztcombattrenchcoat",
+		"price": 1700,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_Windbreaker_B"
+	},
+	{
+		"abr": "colonyinfoexchangecard",
+		"price": 533,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Component_AB"
+	},
+	{
+		"abr": "crossback",
+		"price": 187,
+		"category": "Ratkin apparel",
+		"defname": "RK_CrossBack"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "ecmdevice",
+		"price": 1258,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Component_D"
+	},
+	{
+		"abr": "empbomb",
+		"price": 858,
+		"category": "Special",
+		"defname": "RK_EmpBomb"
+	},
+	{
+		"abr": "empgenerator",
+		"price": 2633,
+		"category": "Misc",
+		"defname": "OA_RK_EMP"
+	},
+	{
+		"abr": "empimpactwaistband",
+		"price": 1333,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_New_Belt_A"
+	},
+	{
+		"abr": "fabricfinishingfacility",
+		"price": 775,
+		"category": "Misc",
+		"defname": "OA_RK_Cloth_Processing"
+	},
+	{
+		"abr": "fabricrecyclingfacilities",
+		"price": 742,
+		"category": "Misc",
+		"defname": "OA_RK_Cloth_Processing_B"
+	},
+	{
+		"abr": "fakeear",
+		"price": 152,
+		"category": "Prosthetic",
+		"defname": "RK_FakeEar"
+	},
+	{
+		"abr": "faketail",
+		"price": 240,
+		"category": "Prosthetic",
+		"defname": "RK_FakeTail"
+	},
+	{
+		"abr": "flowercakecraftmachinery",
+		"price": 1483,
+		"category": "Production",
+		"defname": "OA_OberoniaCakeProducter"
+	},
+	{
+		"abr": "friedflowerballswithoberoniaaurea",
+		"price": 19,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_AA"
+	},
+	{
+		"abr": "friedflowercakewithoberoniaaurea",
+		"price": 8,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_A"
+	},
+	{
+		"abr": "fullprotectionblitzcombathelmet",
+		"price": 1433,
+		"category": "OARatkin armor headgear",
+		"defname": "OA_RK_Armor_Hat_B"
+	},
+	{
+		"abr": "fullprotectiveassaultarmor",
+		"price": 6467,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_New_Windbreaker_G"
+	},
+	{
+		"abr": "goldenirisorchidpatternedrobe",
+		"price": 633,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Apparel_D"
+	},
+	{
+		"abr": "heavyassaultarmor",
+		"price": 9833,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_New_Windbreaker_FangzhiBUGdehouzhui_ACC"
+	},
+	{
+		"abr": "heavyassaultarmorb",
+		"price": 8708,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_New_Windbreaker_FangzhiBUGdehouzhui"
+	},
+	{
+		"abr": "heavyassaultrifle",
+		"price": 3925,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzRifle_Heavy"
+	},
+	{
+		"abr": "heavyassaultsmg",
+		"price": 3383,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzSMG_Heavy"
+	},
+	{
+		"abr": "heavydutysweepingshotgun",
+		"price": 4392,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_Shotgun_C"
+	},
+	{
+		"abr": "kinghamster",
+		"price": 750,
+		"category": "Animals",
+		"defname": "RK_KingHamster"
+	},
+	{
+		"abr": "kinghamsterfur",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RK_Leather_KingHamster"
+	},
+	{
+		"abr": "kinghamstermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RK_KingHamster"
+	},
+	{
+		"abr": "kinghamsterwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "RK_Wool_KingHamster"
+	},
+	{
+		"abr": "kyulensolarlights",
+		"price": 276,
+		"category": "Furniture",
+		"defname": "Ninetail_Lamp"
+	},
+	{
+		"abr": "kyulentail",
+		"price": 8333,
+		"category": "Items",
+		"defname": "NinetailfoxTail"
+	},
+	{
+		"abr": "kyulentail",
+		"price": 8333,
+		"category": "Items",
+		"defname": "NinetailfoxTailwt"
+	},
+	{
+		"abr": "learningassistancefacilities",
+		"price": 742,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_New_Component_B"
+	},
+	{
+		"abr": "lifesupportfirstaidkit",
+		"price": 692,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_FirstAid"
+	},
+	{
+		"abr": "lightblitzcombathelmet",
+		"price": 1267,
+		"category": "OARatkin armor headgear",
+		"defname": "OA_RK_Armor_Hat_A"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "multifunctionalutilitybelt",
+		"price": 692,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Belt"
+	},
+	{
+		"abr": "ninetailedfoxdecoratedbed(double)",
+		"price": 2592,
+		"category": "Furniture",
+		"defname": "NinetailAnimalBed_Lage"
+	},
+	{
+		"abr": "ninetailedfoxdecoratedbed(single)",
+		"price": 2042,
+		"category": "Furniture",
+		"defname": "NinetailAnimalBed_Small"
+	},
+	{
+		"abr": "oberoniaaurea",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Oberonia_Aurea"
+	},
+	{
+		"abr": "oberoniaaureaandorchidstaratlasastronomicalmirror",
+		"price": 1600,
+		"category": "Recreation",
+		"defname": "OA_RK_Telescope"
+	},
+	{
+		"abr": "oberoniaaureaangleruler",
+		"price": 767,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_New_Component_A"
+	},
+	{
+		"abr": "oberoniaaureacake",
+		"price": 12,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_B"
+	},
+	{
+		"abr": "oberoniaaureacake",
+		"price": 18,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_AB"
+	},
+	{
+		"abr": "oberoniaaureaceremonialdress",
+		"price": 1292,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Professional_Uniforms_B"
+	},
+	{
+		"abr": "oberoniaaureaceremonialrobe",
+		"price": 1500,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Windbreaker_G"
+	},
+	{
+		"abr": "oberoniaaureacircuitcontrolcabinet",
+		"price": 617,
+		"category": "Power",
+		"defname": "OA_RK_CircuitRegulator"
+	},
+	{
+		"abr": "oberoniaaureaclassiclongdress",
+		"price": 683,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Apparel_C"
+	},
+	{
+		"abr": "oberoniaaureaclassicrobe",
+		"price": 667,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Apparel_B"
+	},
+	{
+		"abr": "oberoniaaureaclassicalrifle",
+		"price": 1350,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_ProtocolRifle"
+	},
+	{
+		"abr": "oberoniaaureacloak",
+		"price": 725,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Windbreaker_A"
+	},
+	{
+		"abr": "oberoniaaureaconcentrate",
+		"price": 147,
+		"category": "Drugs",
+		"defname": "Oberonia_Aurea_Chanwu_F"
+	},
+	{
+		"abr": "oberoniaaureacourtsilver-leafhairpin",
+		"price": 132,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_Hat_C"
+	},
+	{
+		"abr": "oberoniaaureacourtsuit",
+		"price": 792,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Professional_Uniforms_C"
+	},
+	{
+		"abr": "oberoniaaureacourttrenchcoat",
+		"price": 792,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Windbreaker_C"
+	},
+	{
+		"abr": "oberoniaaureaduplexdress",
+		"price": 667,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Apparel_A"
+	},
+	{
+		"abr": "oberoniaaureaextract",
+		"price": 62,
+		"category": "Drugs",
+		"defname": "Oberonia_Aurea_Chanwu_G"
+	},
+	{
+		"abr": "oberoniaaureafarwalkeremergencycallequipment",
+		"price": 667,
+		"category": "Utility",
+		"defname": "OA_RK_New_Component_C"
+	},
+	{
+		"abr": "oberoniaaureafarwalkerhookandropespear",
+		"price": 442,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_GouSuo"
+	},
+	{
+		"abr": "oberoniaaureaflowerserotonin",
+		"price": 34,
+		"category": "Drugs",
+		"defname": "Oberonia_Aurea_Chanwu_E"
+	},
+	{
+		"abr": "oberoniaaureaflowingheartflowercake",
+		"price": 23,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_AC"
+	},
+	{
+		"abr": "oberoniaaureafruitflowercake",
+		"price": 14,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_C"
+	},
+	{
+		"abr": "oberoniaaureahoney",
+		"price": 17,
+		"category": "OARatkin meals",
+		"defname": "Oberonia_Aurea_Chanwu_D"
+	},
+	{
+		"abr": "oberoniaaureahonorribbon",
+		"price": 309,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Sandwich_B"
+	},
+	{
+		"abr": "oberoniaaureahunterblade",
+		"price": 1083,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_D"
+	},
+	{
+		"abr": "oberoniaaureaindustrialprotectivehelmet",
+		"price": 650,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_New_Hat_D"
+	},
+	{
+		"abr": "oberoniaaureaindustrialuniform",
+		"price": 867,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Professional_Uniforms_A"
+	},
+	{
+		"abr": "oberoniaaureaindustrialvest",
+		"price": 842,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Sandwich_A"
+	},
+	{
+		"abr": "oberoniaaureaindustrialweldingknife",
+		"price": 1275,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_AA"
+	},
+	{
+		"abr": "oberoniaaureairisdress",
+		"price": 650,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Apparel_D"
+	},
+	{
+		"abr": "oberoniaaurealongtrenchcoat",
+		"price": 683,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Windbreaker_A"
+	},
+	{
+		"abr": "oberoniaaureamedicalstaffcane",
+		"price": 600,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_G"
+	},
+	{
+		"abr": "oberoniaaureamineraldetector",
+		"price": 950,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Component_AA"
+	},
+	{
+		"abr": "oberoniaaureamountainwindbreaker",
+		"price": 808,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Windbreaker_B"
+	},
+	{
+		"abr": "oberoniaaureamultifunctionalcoat",
+		"price": 1442,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Windbreaker_C"
+	},
+	{
+		"abr": "oberoniaaureaone-piecedress",
+		"price": 542,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Apparel_A"
+	},
+	{
+		"abr": "oberoniaaureaopticalresearchplatform",
+		"price": 1208,
+		"category": "Misc",
+		"defname": "OA_RK_Rese_A"
+	},
+	{
+		"abr": "oberoniaaureaoscillationcleaningbox",
+		"price": 1308,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_AB"
+	},
+	{
+		"abr": "oberoniaaureaplantculturecabinet(oberoniaaurea)",
+		"price": 433,
+		"category": "Production",
+		"defname": "OA_RK_Shuipei_A"
+	},
+	{
+		"abr": "oberoniaaureaplantculturecabinet(rice)",
+		"price": 433,
+		"category": "Production",
+		"defname": "OA_RK_Shuipei_B"
+	},
+	{
+		"abr": "oberoniaaurearangerrifle",
+		"price": 1008,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_ProtocolRifle_B"
+	},
+	{
+		"abr": "oberoniaaurearangerselfdefenseshotgun",
+		"price": 1400,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_Shotgun_A"
+	},
+	{
+		"abr": "oberoniaaurearesearchcabinet",
+		"price": 392,
+		"category": "Misc",
+		"defname": "OA_RK_Rese_C"
+	},
+	{
+		"abr": "oberoniaaurearesearchgarb",
+		"price": 1283,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Professional_Uniforms_E"
+	},
+	{
+		"abr": "oberoniaaurearibbon",
+		"price": 175,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Sandwich_A"
+	},
+	{
+		"abr": "oberoniaaurearocketgrenade",
+		"price": 15,
+		"category": "Manufactured",
+		"defname": "OA_RK_TurretGun_Bullet"
+	},
+	{
+		"abr": "oberoniaaureascouter",
+		"price": 558,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_Hat_D"
+	},
+	{
+		"abr": "oberoniaaureaself-cleaningdress",
+		"price": 933,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Professional_Uniforms_A"
+	},
+	{
+		"abr": "oberoniaaureasewingplatform",
+		"price": 708,
+		"category": "Production",
+		"defname": "OA_RK_Tailor"
+	},
+	{
+		"abr": "oberoniaaureashawl",
+		"price": 467,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Windbreaker_D"
+	},
+	{
+		"abr": "oberoniaaureashawldress",
+		"price": 608,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Apparel_F"
+	},
+	{
+		"abr": "oberoniaaureashortskirt",
+		"price": 550,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Apparel_B"
+	},
+	{
+		"abr": "oberoniaaureasignalbelt",
+		"price": 1442,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_New_Belt_B"
+	},
+	{
+		"abr": "oberoniaaureasilver-leafhairpin",
+		"price": 76,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_Hat_B"
+	},
+	{
+		"abr": "oberoniaaureasilver-rosehairpin",
+		"price": 279,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_Hat_E"
+	},
+	{
+		"abr": "oberoniaaureasnowblade",
+		"price": 792,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_C"
+	},
+	{
+		"abr": "oberoniaaureasnowcoat",
+		"price": 750,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Traveller_B"
+	},
+	{
+		"abr": "oberoniaaureasnowdress",
+		"price": 700,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Apparel_E"
+	},
+	{
+		"abr": "oberoniaaureasnowfleecehat",
+		"price": 383,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_New_Hat_B"
+	},
+	{
+		"abr": "oberoniaaureasquarehat",
+		"price": 226,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_Hat_A"
+	},
+	{
+		"abr": "oberoniaaureastick",
+		"price": 1042,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick"
+	},
+	{
+		"abr": "oberoniaaureatea",
+		"price": 8,
+		"category": "Drugs",
+		"defname": "Oberonia_Aurea_Tea"
+	},
+	{
+		"abr": "oberoniaaureatechnicalhat",
+		"price": 675,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_New_Hat_C"
+	},
+	{
+		"abr": "oberoniaaureatechnicalofficercoat",
+		"price": 933,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Windbreaker_D"
+	},
+	{
+		"abr": "oberoniaaureatechnicalofficeruniform",
+		"price": 1233,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Professional_Uniforms_C"
+	},
+	{
+		"abr": "oberoniaaureatechnicaluniform",
+		"price": 867,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Professional_Uniforms_B"
+	},
+	{
+		"abr": "oberoniaaureathermostat",
+		"price": 199,
+		"category": "Temperature",
+		"defname": "OA_RK_Hengwen"
+	},
+	{
+		"abr": "oberoniaaureathickrobe",
+		"price": 675,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_New_Apparel_C"
+	},
+	{
+		"abr": "oberoniaaureatipanalysisplatform",
+		"price": 1625,
+		"category": "Misc",
+		"defname": "OA_RK_Rese_B"
+	},
+	{
+		"abr": "oberoniaaureatraveler'skit",
+		"price": 850,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Component_F"
+	},
+	{
+		"abr": "oberoniaaureatravelingrobe",
+		"price": 725,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Traveller_A"
+	},
+	{
+		"abr": "oberoniaaureawalkingstick",
+		"price": 900,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_B"
+	},
+	{
+		"abr": "oberoniaaureawinterrobe",
+		"price": 858,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Windbreaker_F"
+	},
+	{
+		"abr": "oberoniaaureawintershawl",
+		"price": 558,
+		"category": "OARatkin apparel",
+		"defname": "OA_RK_Windbreaker_E"
+	},
+	{
+		"abr": "oberoniaaureawreath",
+		"price": 78,
+		"category": "OARatkin headgear",
+		"defname": "OA_RK_New_Hat_A"
+	},
+	{
+		"abr": "prototypeanti-armorblitzrifle",
+		"price": 2600,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_BlitzAMR_B"
+	},
+	{
+		"abr": "prototypeblitzrifle",
+		"price": 1725,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_PrototypeBlitzRifle"
+	},
+	{
+		"abr": "pulpit",
+		"price": 202,
+		"category": "Furniture",
+		"defname": "RK_Pulpit"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "ratkin",
+		"price": 3333,
 		"category": "Animal",
-		"defname": "HAR_EL_Race_Eveliet_a"
+		"defname": "Ratkin"
 	},
 	{
-		"abr": "イヴリートmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_HAR_EL_Race_Eveliet_a"
+		"abr": "ratkinapronskirt",
+		"price": 248,
+		"category": "Ratkin apparel",
+		"defname": "RK_ApronSkirt"
 	},
 	{
-		"abr": "イヴリート封入カプセル",
-		"price": 20000,
-		"category": "Items",
-		"defname": "HAR_EL_Spawn_a"
+		"abr": "ratkinautocrossbow",
+		"price": 550,
+		"category": "Ranged weapons",
+		"defname": "RK_AutoCrossBow"
 	},
 	{
-		"abr": "イシャバアルジャケットa",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Shell_a"
-	},
-	{
-		"abr": "イシャバアルジャケットa",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Shell_c"
-	},
-	{
-		"abr": "イシャバアルジャケットb",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Shell_b"
-	},
-	{
-		"abr": "イシャバアルジュエル",
-		"price": 700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Head_c"
-	},
-	{
-		"abr": "イシャバアルストッキング",
-		"price": 342,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_onskin_a"
-	},
-	{
-		"abr": "イシャバアルティアラ",
-		"price": 700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Head_a"
-	},
-	{
-		"abr": "イシャバアルドレスa",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Tops_a"
-	},
-	{
-		"abr": "イシャバアルドレスb",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Tops_b"
-	},
-	{
-		"abr": "イシャバアルドレスc",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Tops_c"
-	},
-	{
-		"abr": "イシャバアルドレスd",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Tops_d"
-	},
-	{
-		"abr": "イシャバアルドレスe",
-		"price": 758,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Tops_e"
-	},
-	{
-		"abr": "イシャバアルベール",
-		"price": 4158,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Head_e"
-	},
-	{
-		"abr": "イシャバアルヘッドギア",
-		"price": 700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Head_b"
-	},
-	{
-		"abr": "イシャバアルローブ",
-		"price": 5500,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Shell_d"
-	},
-	{
-		"abr": "エメトエヴェン",
-		"price": 167,
-		"category": "Items",
-		"defname": "HAR_EL_Material_a"
-	},
-	{
-		"abr": "エリオーンアーマー",
-		"price": 4858,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Armor_a"
-	},
-	{
-		"abr": "エリオーンヘルメット",
-		"price": 3392,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_Apparel_Head_d"
-	},
-	{
-		"abr": "エルツェレム",
-		"price": 1767,
-		"category": "Production",
-		"defname": "BMOT_Building_Incubator"
-	},
-	{
-		"abr": "キラmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_HAR_EL_Monster_c"
-	},
-	{
-		"abr": "ヘレムマスティマ",
-		"price": 16667,
+		"abr": "ratkinaxe",
+		"price": 283,
 		"category": "Melee weapons",
-		"defname": "HAR_EL_Weapon_a"
+		"defname": "RK_Axe"
 	},
 	{
-		"abr": "メアmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_HAR_EL_Monster_a"
+		"abr": "ratkinbackpack",
+		"price": 215,
+		"category": "Ratkin apparel",
+		"defname": "RK_Backpack"
 	},
 	{
-		"abr": "ルカmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_HAR_EL_Monster_b"
+		"abr": "ratkinbattlesuit",
+		"price": 1767,
+		"category": "Ratkin apparel",
+		"defname": "RK_BattleSuit"
 	},
 	{
-		"abr": "人魚のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_b"
+		"abr": "ratkinbigheavyshield",
+		"price": 1008,
+		"category": "Ratkin apparel",
+		"defname": "RK_HeavyShield_Big"
 	},
 	{
-		"abr": "夜魔のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_a"
+		"abr": "ratkincannon",
+		"price": 1058,
+		"category": "Security",
+		"defname": "RK_Cannon_Strait_Body"
 	},
 	{
-		"abr": "子供用シャツ",
-		"price": 93,
-		"category": "人工種族の衣服",
-		"defname": "Aya_Race_Ap_C_T_a"
+		"abr": "ratkincannonshell",
+		"price": 92,
+		"category": "Ratkin Cannon Shell",
+		"defname": "Big_mouse"
 	},
 	{
-		"abr": "子供用ブラウス",
-		"price": 93,
-		"category": "人工種族の衣服",
-		"defname": "Aya_Race_Ap_C_T_b"
+		"abr": "ratkincardigan",
+		"price": 283,
+		"category": "Ratkin apparel",
+		"defname": "RK_Cardigan"
 	},
 	{
-		"abr": "子供用一枚布",
-		"price": 93,
-		"category": "人工種族の衣服",
-		"defname": "Aya_Race_Ap_C_T_c"
+		"abr": "ratkinchefhat",
+		"price": 162,
+		"category": "Ratkin apparel",
+		"defname": "RK_ChefHat"
 	},
 	{
-		"abr": "子供用学生服",
-		"price": 93,
-		"category": "人工種族の衣服",
-		"defname": "Aya_Race_Ap_C_T_d"
+		"abr": "ratkinchefsuit",
+		"price": 375,
+		"category": "Ratkin apparel",
+		"defname": "RK_ChefSuit"
 	},
 	{
-		"abr": "宇宙のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_f"
+		"abr": "ratkincleaver",
+		"price": 247,
+		"category": "Melee weapons",
+		"defname": "RK_Cleaver"
 	},
 	{
-		"abr": "幽鬼のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_c"
+		"abr": "ratkincoif",
+		"price": 121,
+		"category": "Ratkin apparel",
+		"defname": "RK_Coif"
 	},
 	{
-		"abr": "混沌のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_h"
+		"abr": "ratkincrossbow",
+		"price": 158,
+		"category": "Ranged weapons",
+		"defname": "RK_Crossbow"
 	},
 	{
-		"abr": "獣人のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_i"
+		"abr": "ratkindagger",
+		"price": 128,
+		"category": "Melee weapons",
+		"defname": "RK_Dagger"
 	},
 	{
-		"abr": "王族のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_g"
+		"abr": "ratkinearcostume",
+		"price": 342,
+		"category": "Ratkin apparel",
+		"defname": "RK_EarCostume"
 	},
 	{
-		"abr": "異種族用ミシン台",
-		"price": 508,
+		"abr": "ratkinelectricsmithy",
+		"price": 533,
 		"category": "Production",
-		"defname": "HTBench_HAR"
+		"defname": "RK_ElectricSmithy"
 	},
 	{
-		"abr": "竜人のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_e"
+		"abr": "ratkinelectrictailorbench",
+		"price": 542,
+		"category": "Production",
+		"defname": "RK_ElectricTailoringBench"
 	},
 	{
-		"abr": "細菌のエヴェドケレン",
-		"price": 15700,
-		"category": "イヴリートの衣服",
-		"defname": "HAR_EL_EyeCover_d"
+		"abr": "ratkinenhancedcrossbow",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "RK_EnhanceCrossBow"
 	},
 	{
-		"abr": "肖像種:再設計データ:ａ",
-		"price": 6667,
-		"category": "Items",
-		"defname": "HAR_EL_Item_a"
+		"abr": "ratkinexplorerhat",
+		"price": 141,
+		"category": "Ratkin apparel",
+		"defname": "RK_ExplorerHat"
 	},
 	{
-		"abr": "肖像種:再設計データ:ｂ",
-		"price": 6667,
-		"category": "Items",
-		"defname": "HAR_EL_Item_b"
+		"abr": "ratkinexplorerwear",
+		"price": 358,
+		"category": "Ratkin apparel",
+		"defname": "RK_ExplorerWear"
 	},
 	{
-		"abr": "肖像種:再設計データ:ｃ",
-		"price": 6667,
-		"category": "Items",
-		"defname": "HAR_EL_Item_c"
+		"abr": "ratkinflatcolorcoat",
+		"price": 742,
+		"category": "Ratkin apparel",
+		"defname": "RK_FlatColorCoat"
 	},
 	{
-		"abr": "肖像種:再設計データ:ｄ",
-		"price": 6667,
-		"category": "Items",
-		"defname": "HAR_EL_Item_d"
+		"abr": "ratkinflechetterifle",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "RK_FlechetteRifle"
 	},
 	{
-		"abr": "肖像種:再設計データ:ｅ",
-		"price": 6667,
-		"category": "Items",
-		"defname": "HAR_EL_Item_e"
+		"abr": "ratkinflechettesniperrifle",
+		"price": 775,
+		"category": "Ranged weapons",
+		"defname": "RK_FlechetteSniperRifle"
+	},
+	{
+		"abr": "ratkinfork",
+		"price": 283,
+		"category": "Melee weapons",
+		"defname": "RK_Fork"
+	},
+	{
+		"abr": "ratkinfrillonepiece",
+		"price": 742,
+		"category": "Ratkin apparel",
+		"defname": "RK_FrillOnepiece"
+	},
+	{
+		"abr": "ratkinfueledsmithy",
+		"price": 367,
+		"category": "Production",
+		"defname": "RK_FueledSmithy"
+	},
+	{
+		"abr": "ratkinglasses",
+		"price": 103,
+		"category": "Ratkin apparel",
+		"defname": "RK_ResearchGlasses"
+	},
+	{
+		"abr": "ratkinguardeneruniform",
+		"price": 442,
+		"category": "Ratkin apparel",
+		"defname": "RK_GaurdenUniform"
+	},
+	{
+		"abr": "ratkingunlance(normal)",
+		"price": 1283,
+		"category": "Melee weapons",
+		"defname": "RK_Gunlance_NormalType"
+	},
+	{
+		"abr": "ratkingunlance(spread)",
+		"price": 1283,
+		"category": "Melee weapons",
+		"defname": "RK_Gunlance_SpreadType"
+	},
+	{
+		"abr": "ratkinhaircorsage",
+		"price": 358,
+		"category": "Ratkin apparel",
+		"defname": "RK_HairCorsage"
+	},
+	{
+		"abr": "ratkinhalberd",
+		"price": 508,
+		"category": "Melee weapons",
+		"defname": "RK_Halberd"
+	},
+	{
+		"abr": "ratkinhandtailorbench",
+		"price": 225,
+		"category": "Production",
+		"defname": "RK_HandTailoringBench"
+	},
+	{
+		"abr": "ratkinheadband",
+		"price": 383,
+		"category": "Ratkin apparel",
+		"defname": "RK_HeadBand"
+	},
+	{
+		"abr": "ratkinheavylance",
+		"price": 875,
+		"category": "Melee weapons",
+		"defname": "RK_HeavyLance"
+	},
+	{
+		"abr": "ratkinheavyshield",
+		"price": 800,
+		"category": "Ratkin apparel",
+		"defname": "RK_HeavyShield"
+	},
+	{
+		"abr": "ratkinhoe",
+		"price": 283,
+		"category": "Melee weapons",
+		"defname": "RK_Hockey"
+	},
+	{
+		"abr": "ratkinlongsword",
+		"price": 592,
+		"category": "Melee weapons",
+		"defname": "RK_LongSword"
+	},
+	{
+		"abr": "ratkinmace",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "RK_Mace"
+	},
+	{
+		"abr": "ratkinmagicwand",
+		"price": 104,
+		"category": "Melee weapons",
+		"defname": "RK_MagicWand"
+	},
+	{
+		"abr": "ratkinmaskhelmet",
+		"price": 1092,
+		"category": "Ratkin apparel",
+		"defname": "RK_Mask"
+	},
+	{
+		"abr": "ratkinmaskhelmet",
+		"price": 1092,
+		"category": "Ratkin apparel",
+		"defname": "RK_MaskB"
+	},
+	{
+		"abr": "ratkinmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ratkin"
+	},
+	{
+		"abr": "ratkinmilitaryhelmet",
+		"price": 525,
+		"category": "Ratkin apparel",
+		"defname": "RK_BulletProofHelmet"
+	},
+	{
+		"abr": "ratkinmuffler",
+		"price": 132,
+		"category": "Ratkin apparel",
+		"defname": "RK_Muffler"
+	},
+	{
+		"abr": "ratkinnundress",
+		"price": 775,
+		"category": "Ratkin apparel",
+		"defname": "RK_SistersDerss"
+	},
+	{
+		"abr": "ratkinonehandedsword",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "RK_OneHanded"
+	},
+	{
+		"abr": "ratkinorderuniform",
+		"price": 1100,
+		"category": "Ratkin apparel",
+		"defname": "RK_OrderUniform"
+	},
+	{
+		"abr": "ratkinoutdoorbackpack",
+		"price": 311,
+		"category": "Ratkin apparel",
+		"defname": "RK_OutdoorBackpack"
+	},
+	{
+		"abr": "ratkinpackage",
+		"price": 683,
+		"category": "Ratkin apparel",
+		"defname": "RK_Sack"
+	},
+	{
+		"abr": "ratkinplatearmor",
+		"price": 733,
+		"category": "Ratkin apparel",
+		"defname": "RK_Plate"
+	},
+	{
+		"abr": "ratkinplatehelma",
+		"price": 320,
+		"category": "Ratkin apparel",
+		"defname": "RK_PlateHelmA"
+	},
+	{
+		"abr": "ratkinplatehelmb",
+		"price": 320,
+		"category": "Ratkin apparel",
+		"defname": "RK_PlateHelmB"
+	},
+	{
+		"abr": "ratkinplatehelmc",
+		"price": 320,
+		"category": "Ratkin apparel",
+		"defname": "RK_PlateHelmC"
+	},
+	{
+		"abr": "ratkinprototypepulserifle",
+		"price": 2150,
+		"category": "Ranged weapons",
+		"defname": "RK_PrototypePulseRifle"
+	},
+	{
+		"abr": "ratkinresearchgown",
+		"price": 375,
+		"category": "Ratkin apparel",
+		"defname": "RK_ResearchGown"
+	},
+	{
+		"abr": "ratkinribbonhairband",
+		"price": 358,
+		"category": "Ratkin apparel",
+		"defname": "RK_RibbonHairBand"
+	},
+	{
+		"abr": "ratkinrifle",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "RK_Rifle"
+	},
+	{
+		"abr": "ratkinroyalcrown",
+		"price": 400,
+		"category": "Ratkin apparel",
+		"defname": "RK_RoyalCrown"
+	},
+	{
+		"abr": "ratkinshotgun",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "RK_Rifle_line"
+	},
+	{
+		"abr": "ratkinsniperrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "RK_SniperRifle"
+	},
+	{
+		"abr": "ratkinspear",
+		"price": 280,
+		"category": "Melee weapons",
+		"defname": "RK_Spear"
+	},
+	{
+		"abr": "ratkinstrawhat",
+		"price": 41,
+		"category": "Ratkin apparel",
+		"defname": "RK_StrawHat"
+	},
+	{
+		"abr": "ratkinsubject",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Ratkin_Su"
+	},
+	{
+		"abr": "ratkinsubjectmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ratkin_Su"
+	},
+	{
+		"abr": "ratkinsummerdress",
+		"price": 267,
+		"category": "Ratkin apparel",
+		"defname": "RK_SummerDress"
+	},
+	{
+		"abr": "ratkintwohandedsword",
+		"price": 817,
+		"category": "Melee weapons",
+		"defname": "RK_TwoHanded"
+	},
+	{
+		"abr": "ratkinveil",
+		"price": 392,
+		"category": "Ratkin apparel",
+		"defname": "RK_SistersVeil"
+	},
+	{
+		"abr": "ratkinwinterrobe",
+		"price": 342,
+		"category": "Ratkin apparel",
+		"defname": "RK_WinterRobe"
+	},
+	{
+		"abr": "ratkinwoodenlance",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "RK_LightLance"
+	},
+	{
+		"abr": "ratkinwoodenshield",
+		"price": 392,
+		"category": "Ratkin apparel",
+		"defname": "RK_WoodenShield"
+	},
+	{
+		"abr": "ratkinwoolenhat",
+		"price": 98,
+		"category": "Ratkin apparel",
+		"defname": "RK_WoolenHat"
+	},
+	{
+		"abr": "ratkinworkerwear",
+		"price": 325,
+		"category": "Ratkin apparel",
+		"defname": "RK_WorkerWear"
+	},
+	{
+		"abr": "recoillesscannonforassaultoperations",
+		"price": 5433,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_AT"
+	},
+	{
+		"abr": "researchanalyzer",
+		"price": 1833,
+		"category": "Misc",
+		"defname": "OARatkin_ResearchAnalyzer"
+	},
+	{
+		"abr": "rotorflighttray",
+		"price": 825,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_New_Component_D"
+	},
+	{
+		"abr": "rotti",
+		"price": 667,
+		"category": "Animals",
+		"defname": "Rotti"
+	},
+	{
+		"abr": "rottihat",
+		"price": 57,
+		"category": "Ratkin apparel",
+		"defname": "RK_RottiHat"
+	},
+	{
+		"abr": "rottimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rotti"
+	},
+	{
+		"abr": "royalrobe",
+		"price": 458,
+		"category": "Ratkin apparel",
+		"defname": "RK_RoyalRobe"
+	},
+	{
+		"abr": "santahat",
+		"price": 98,
+		"category": "Ratkin apparel",
+		"defname": "RK_SantaHat"
+	},
+	{
+		"abr": "santapackage",
+		"price": 683,
+		"category": "Ratkin apparel",
+		"defname": "RK_SantaSack"
+	},
+	{
+		"abr": "santarobe",
+		"price": 342,
+		"category": "Ratkin apparel",
+		"defname": "RK_SantaRobe"
+	},
+	{
+		"abr": "self-generatingenergycomplex",
+		"price": 1375,
+		"category": "Power",
+		"defname": "OA_RK_Zhuzi_B"
+	},
+	{
+		"abr": "shockproofvest",
+		"price": 950,
+		"category": "OARatkin armor",
+		"defname": "OA_RK_Sandwich_C"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "single-useempgenerator",
+		"price": 5,
+		"category": "Misc",
+		"defname": "OA_RK_EMPInst"
+	},
+	{
+		"abr": "smallgellightwarmglow",
+		"price": 15342,
+		"category": "Misc",
+		"defname": "OA_RK_SkyWarmth_S"
+	},
+	{
+		"abr": "stasisfactorrecoverydevice",
+		"price": 975,
+		"category": "OARatkin utility",
+		"defname": "OA_RK_Component_AC"
+	},
+	{
+		"abr": "strawberrybeer",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "RK_StrawberryBeer"
+	},
+	{
+		"abr": "technicalofficerselfdefensedagger",
+		"price": 2083,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_E"
+	},
+	{
+		"abr": "technicalofficerselfdefenseshotgun",
+		"price": 3800,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_Shotgun_B"
+	},
+	{
+		"abr": "technicalofficerselfdefensesmg",
+		"price": 3317,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_Jishu_SMG"
+	},
+	{
+		"abr": "technicalofficer'scane",
+		"price": 1767,
+		"category": "OARatkin melee weapons",
+		"defname": "OA_RK_Mountain_Stick_F"
+	},
+	{
+		"abr": "techprint(advancedreactor)",
+		"price": 2000,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Electrical_System_B"
+	},
+	{
+		"abr": "techprint(blitzcombatuniform)",
+		"price": 4667,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Apparel_C"
+	},
+	{
+		"abr": "techprint(electroniccountermeasure)",
+		"price": 2000,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_EMP_Building"
+	},
+	{
+		"abr": "techprint(fullprotectiveassaultarmor)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Apparel_G"
+	},
+	{
+		"abr": "techprint(heavyassaultarmor)",
+		"price": 5333,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Apparel_F"
+	},
+	{
+		"abr": "techprint(heavyassaultweapons)",
+		"price": 5333,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Weapon_H"
+	},
+	{
+		"abr": "techprint(oberoniaaureaantiheavyarmorweaponry)",
+		"price": 4667,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Weapon_D"
+	},
+	{
+		"abr": "techprint(oberoniaaureastandardblitzweaponry)",
+		"price": 4000,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Weapon_C"
+	},
+	{
+		"abr": "techprint(oberoniaaureatechnicaluniform)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Apparel_E"
+	},
+	{
+		"abr": "techprint(unstablechargetechnology)",
+		"price": 5333,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Weapon_E"
+	},
+	{
+		"abr": "techprint(warmglowfacilities)",
+		"price": 3000,
+		"category": "Techprints",
+		"defname": "Techprint_OA_RK_Ningguangnuanhui"
+	},
+	{
+		"abr": "unstablechargedclustershooter",
+		"price": 24517,
+		"category": "OARatkin ranged weapons",
+		"defname": "OA_RK_UnstableChargeDriver"
 	}
 	],
-	"total": 839
+	"total": 1058
 }

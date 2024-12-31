@@ -12,6 +12,24 @@
     "version": "11.0.4"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Kyulen - NinetailFox",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -30,8 +48,14 @@
     "version": null
   },
   {
-    "author": "Ayameduki",
-    "name": "[Aya]Eveliet Race",
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "M.Y.G",
+    "name": "[OA]Ratkin Faction: Oberonia aurea",
     "steamId": null,
     "version": null
   },
@@ -90,12 +114,6 @@
     "version": "1.5.10.0"
   },
   {
-    "author": "Sergwest",
-    "name": "No mountain landing mod",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -118,5 +136,131 @@
     "name": "[WD] Realistic Darkness",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "3226161877",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Slave Rebellions Improved (Continued)",
+    "steamId": "3259932217",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Cthanatos",
+    "name": "HaulTeleporter",
+    "steamId": "2892118549",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Densevoid",
+    "name": "One bed to sleep with all",
+    "steamId": "2572109781",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2880481073",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Chill the F*** Out",
+    "steamId": "2880668727",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9113.26296"
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago | monkey5206",
+    "name": "Carry Capacity Fixed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tiagorbrodrigues",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "legodude17",
+    "name": "Smarter Deconstruction and Mining (Continued)",
+    "steamId": "3261302741",
+    "version": "1.5.5"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Alias, Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas",
+    "name": "Fallout Traits Continued",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca (Current Maintainer)",
+    "name": "[LC] Consolidated Traits",
+    "steamId": "2879753009",
+    "version": "1.0.8853.35016"
+  },
+  {
+    "author": "Cavenaugh",
+    "name": "[KV] Call Trade Ships [1.5 Patched]",
+    "steamId": "3226502149",
+    "version": "1.0.0.0"
   }
 ]
