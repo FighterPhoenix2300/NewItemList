@@ -24,12 +24,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "[KOR]Bichang",
-    "name": "Kyulen - NinetailFox",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -44,18 +38,6 @@
   {
     "author": "Farmradish",
     "name": "Nyaron race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "M.Y.G",
-    "name": "[OA]Ratkin Faction: Oberonia aurea",
     "steamId": null,
     "version": null
   },
@@ -192,6 +174,12 @@
     "version": "1.0.3"
   },
   {
+    "author": "Khorbos",
+    "name": "Go the Fork to Sleep",
+    "steamId": "2880337287",
+    "version": "1.0.5"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
@@ -262,5 +250,77 @@
     "name": "[KV] Call Trade Ships [1.5 Patched]",
     "steamId": "3226502149",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Twink315",
+    "name": "Vault-Tec - Handy things for your vault!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arylice",
+    "name": "[ARY] Automatic Stump Chopping [1.5]",
+    "steamId": "3357749890",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Geminingen",
+    "name": "Ancient Fallout Armory (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RamRod",
+    "name": "Fallout Stimpak (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LegendaryMinuteman",
+    "name": "Fallout: Retro Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phaneron",
+    "name": "Fallout: Vault 111 Starter Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anonymous",
+    "name": "Configurable Prison Breaks",
+    "steamId": "3227325698",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sergwest",
+    "name": "No mountain landing mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs and TheRealLemon",
+    "name": "Map Reroll (1.4/1.5)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Map Designer",
+    "steamId": "2111424996",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
   }
 ]
