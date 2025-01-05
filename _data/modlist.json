@@ -322,5 +322,29 @@
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "3215569151",
     "version": "1.0.2.2"
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "user19990313 and louize",
+    "name": "RuntimeGC [1.5] fork",
+    "steamId": "3284019732",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
   }
 ]
