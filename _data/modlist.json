@@ -240,12 +240,6 @@
     "version": null
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca (Current Maintainer)",
-    "name": "[LC] Consolidated Traits",
-    "steamId": "2879753009",
-    "version": "1.0.8853.35016"
-  },
-  {
     "author": "Cavenaugh",
     "name": "[KV] Call Trade Ships [1.5 Patched]",
     "steamId": "3226502149",
@@ -272,24 +266,6 @@
   {
     "author": "Geminingen",
     "name": "Ancient Fallout Armory (1.4)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RamRod",
-    "name": "Fallout Stimpak (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LegendaryMinuteman",
-    "name": "Fallout: Retro Weapon Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Phaneron",
-    "name": "Fallout: Vault 111 Starter Pack",
     "steamId": null,
     "version": null
   },
@@ -346,5 +322,17 @@
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.5.0.4"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Clothing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Weapons",
+    "steamId": null,
+    "version": null
   }
 ]
