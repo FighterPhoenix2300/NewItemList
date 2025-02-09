@@ -402,6 +402,12 @@
     "version": null
   },
   {
+    "author": "JangoD'soul",
+    "name": "T-45b Power Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "DragSelect",
     "steamId": null,
@@ -412,5 +418,41 @@
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
     "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
+  },
+  {
+    "author": "miyamiya, twsta and vokaerian",
+    "name": "Compressed Raid",
+    "steamId": "3227665030",
+    "version": "1.5"
+  },
+  {
+    "author": "Sam",
+    "name": "Glitter Tech Classic (No Surgery)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Uncompromising Tribal Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Side1iner",
+    "name": "Trait Slots Plus",
+    "steamId": "3217782973",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
   }
 ]

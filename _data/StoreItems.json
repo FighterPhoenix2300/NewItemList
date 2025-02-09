@@ -4904,7 +4904,7 @@
 	},
 	{
 		"abr": "vaultblueluxurywalls",
-		"price": 19,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWallsBlue"
 	},
@@ -4940,7 +4940,7 @@
 	},
 	{
 		"abr": "vaultgreenluxurywalls",
-		"price": 19,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWallsGreen"
 	},
@@ -4988,7 +4988,7 @@
 	},
 	{
 		"abr": "vaultmaintenancewalls",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Vaultmainten"
 	},
@@ -5048,7 +5048,7 @@
 	},
 	{
 		"abr": "vaultredluxurywalls",
-		"price": 19,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWalls"
 	},
@@ -5096,7 +5096,7 @@
 	},
 	{
 		"abr": "vaultsilverluxurywalls",
-		"price": 19,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWallsSilver"
 	},
@@ -5138,25 +5138,25 @@
 	},
 	{
 		"abr": "vaultwalls(eastcoast)",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWallsNormale"
 	},
 	{
 		"abr": "vaultwalls(vault76)",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWallsNormalseventy"
 	},
 	{
 		"abr": "vaultwalls(westcoast)",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultLuxWallsNormalw"
 	},
 	{
 		"abr": "vaultwallsoverseersoffice",
-		"price": 19,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VaultowNormalseventy"
 	},
@@ -8984,7 +8984,7 @@
 	},
 	{
 		"abr": "anchovy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
@@ -9013,22 +9013,10 @@
 		"defname": "VCEF_RawBass"
 	},
 	{
-		"abr": "bricks",
-		"price": 3,
-		"category": "Stone blocks",
-		"defname": "RFFBricks"
-	},
-	{
 		"abr": "catfish",
 		"price": 4,
 		"category": "Raw fish",
 		"defname": "VCEF_RawCatfish"
-	},
-	{
-		"abr": "clay",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "RFFClay"
 	},
 	{
 		"abr": "clownfish",
@@ -9049,28 +9037,10 @@
 		"defname": "Fallout_Cola_Candy"
 	},
 	{
-		"abr": "compostbarrel",
-		"price": 140,
-		"category": "Production",
-		"defname": "CompostBarrel"
-	},
-	{
-		"abr": "crushedrocks",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "CrushedRocks"
-	},
-	{
 		"abr": "eel",
 		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawEel"
-	},
-	{
-		"abr": "fertilizer",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Fertilizer"
 	},
 	{
 		"abr": "fishnet",
@@ -9092,7 +9062,7 @@
 	},
 	{
 		"abr": "guppy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
@@ -9107,12 +9077,6 @@
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawHalibut"
-	},
-	{
-		"abr": "heavysandbags",
-		"price": 29,
-		"category": "Security",
-		"defname": "HeavySandbags"
 	},
 	{
 		"abr": "herring",
@@ -9140,7 +9104,7 @@
 	},
 	{
 		"abr": "minnow",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
@@ -9247,18 +9211,6 @@
 		"defname": "VCEF_RawPerch"
 	},
 	{
-		"abr": "pileofdirt",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "PileofDirt"
-	},
-	{
-		"abr": "pileofsand",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "SandPile"
-	},
-	{
 		"abr": "piranha",
 		"price": 2,
 		"category": "Raw fish",
@@ -9269,6 +9221,54 @@
 		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawPufferfish"
+	},
+	{
+		"abr": "bricks",
+		"price": 3,
+		"category": "Stone blocks",
+		"defname": "RFFBricks"
+	},
+	{
+		"abr": "clay",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RFFClay"
+	},
+	{
+		"abr": "compostbarrel",
+		"price": 140,
+		"category": "Production",
+		"defname": "CompostBarrel"
+	},
+	{
+		"abr": "crushedrocks",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "CrushedRocks"
+	},
+	{
+		"abr": "fertilizer",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Fertilizer"
+	},
+	{
+		"abr": "heavysandbags",
+		"price": 29,
+		"category": "Security",
+		"defname": "HeavySandbags"
+	},
+	{
+		"abr": "pileofdirt",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "PileofDirt"
+	},
+	{
+		"abr": "pileofsand",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "SandPile"
 	},
 	{
 		"abr": "rawcompost",
@@ -9296,7 +9296,7 @@
 	},
 	{
 		"abr": "sprat",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSprat"
 	},
@@ -9318,6 +9318,918 @@
 		"category": "Raw fish",
 		"defname": "VCEF_RawTrout"
 	},
+	{
+		"abr": "tuna",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTuna"
+	},
+	{
+		"abr": "t-45barmor",
+		"price": 3392,
+		"category": "Apparel",
+		"defname": "CPApparel_T45bPowerArmor"
+	},
+	{
+		"abr": "t-45bhelmet",
+		"price": 1058,
+		"category": "Headgear",
+		"defname": "CPApparel_T45bHelmet"
+	},
+	{
+		"abr": "alphapoly",
+		"price": 195,
+		"category": "Raw resources",
+		"defname": "AlphaPoly"
+	},
+	{
+		"abr": "amberimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Amber_Implant"
+	},
+	{
+		"abr": "amputator",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "RNMelee_DFAmputator_Blade"
+	},
+	{
+		"abr": "apb-1pistol",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Pistol"
+	},
+	{
+		"abr": "apb-1projector",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Projector"
+	},
+	{
+		"abr": "apb-1rifle",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Rifle"
+	},
+	{
+		"abr": "automaticclustermortar",
+		"price": 12275,
+		"category": "Security",
+		"defname": "ClusterMortar"
+	},
+	{
+		"abr": "automaticmortar",
+		"price": 12275,
+		"category": "Security",
+		"defname": "AutoMortar"
+	},
+	{
+		"abr": "betapoly",
+		"price": 392,
+		"category": "Raw resources",
+		"defname": "BetaPoly"
+	},
+	{
+		"abr": "blackleapermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_BlackLeaper"
+	},
+	{
+		"abr": "blacktitanmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_BlackTitan"
+	},
+	{
+		"abr": "blackwraithmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_BlackWraith"
+	},
+	{
+		"abr": "bonemeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_Bone"
+	},
+	{
+		"abr": "calamityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Calamity_Implant"
+	},
+	{
+		"abr": "cannisterturret",
+		"price": 3858,
+		"category": "Security",
+		"defname": "CannisterTurret"
+	},
+	{
+		"abr": "cateyeimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_CatEye_Implant"
+	},
+	{
+		"abr": "caviar",
+		"price": 50,
+		"category": "Meals",
+		"defname": "RH2_Ration_Caviar"
+	},
+	{
+		"abr": "celerityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Celerity_Implant"
+	},
+	{
+		"abr": "cloak",
+		"price": 450,
+		"category": "Apparel",
+		"defname": "RHApparel_DFCloak_Poncho"
+	},
+	{
+		"abr": "cloakhood",
+		"price": 144,
+		"category": "Headgear",
+		"defname": "RHApparel_DFCloak_Hood"
+	},
+	{
+		"abr": "computercomponents",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "ComputerComp"
+	},
+	{
+		"abr": "corpoarmchair",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Armchair"
+	},
+	{
+		"abr": "corpobed",
+		"price": 157,
+		"category": "Furniture",
+		"defname": "RH2_CorpoBed"
+	},
+	{
+		"abr": "corpobrazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Brazier"
+	},
+	{
+		"abr": "corpodesk(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Desk1x2c"
+	},
+	{
+		"abr": "corpodoublebed",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "RH2_CorpoDoubleBed"
+	},
+	{
+		"abr": "corpodrape",
+		"price": 608,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Drape"
+	},
+	{
+		"abr": "corpolamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "RH_Corpo_StandingLamp"
+	},
+	{
+		"abr": "corpolamp(blue)",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "RH_Corpo_StandingLamp_Blue"
+	},
+	{
+		"abr": "corpolamp(green)",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "RH_Corpo_StandingLamp_Green"
+	},
+	{
+		"abr": "corpolamp(red)",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "RH_Corpo_StandingLamp_Red"
+	},
+	{
+		"abr": "corpotable(1x1)",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Table1x1c"
+	},
+	{
+		"abr": "corpotable(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Table1x2c"
+	},
+	{
+		"abr": "corpotable(2x4)",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Table2x4c"
+	},
+	{
+		"abr": "corpseblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "RNGun_CorpseBlaster_Shotgun"
+	},
+	{
+		"abr": "corpsedestroyer",
+		"price": 4167,
+		"category": "Ranged weapons",
+		"defname": "RNGun_CorpseDestroyer_GPMG"
+	},
+	{
+		"abr": "cruisemissileturret",
+		"price": 34375,
+		"category": "Security",
+		"defname": "CMissileTurret"
+	},
+	{
+		"abr": "dataimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Data_Implant"
+	},
+	{
+		"abr": "dawnimplant",
+		"price": 41667,
+		"category": "Elite collection",
+		"defname": "DF_Dawn_Implant"
+	},
+	{
+		"abr": "destructionimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Destruction_Implant"
+	},
+	{
+		"abr": "devilhoundmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_DevilHound"
+	},
+	{
+		"abr": "devil'simplant",
+		"price": 25000,
+		"category": "Elite collection",
+		"defname": "DF_Devils_Implant"
+	},
+	{
+		"abr": "dualblade",
+		"price": 15000,
+		"category": "Melee weapons",
+		"defname": "RNMelee_DFDual_Blade"
+	},
+	{
+		"abr": "duskcarbine",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DuskCarbine_DMR"
+	},
+	{
+		"abr": "duskenforcer",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DuskEnforcer_Revolver"
+	},
+	{
+		"abr": "duskhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "RHApparel_DuskReactive_Helmet"
+	},
+	{
+		"abr": "duskmag",
+		"price": 8083,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DuskMAG_HMG"
+	},
+	{
+		"abr": "duskrazor",
+		"price": 3500,
+		"category": "Melee weapons",
+		"defname": "RNMelee_DFDuskBlade_Sword"
+	},
+	{
+		"abr": "duskstriker",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DuskStriker_Shotgun"
+	},
+	{
+		"abr": "dynamicrelaxationchair",
+		"price": 5300,
+		"category": "Furniture",
+		"defname": "DynChair"
+	},
+	{
+		"abr": "electrolyzer",
+		"price": 9633,
+		"category": "Production",
+		"defname": "Electrolyzer"
+	},
+	{
+		"abr": "emrgturret",
+		"price": 6875,
+		"category": "Security",
+		"defname": "EMTurret"
+	},
+	{
+		"abr": "emrg-1",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMRifle"
+	},
+	{
+		"abr": "ethanol",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "Ethanol"
+	},
+	{
+		"abr": "evolvedlongarmsmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_EvolvedLongArms"
+	},
+	{
+		"abr": "evolvedrumblermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_EvolvedRumbler"
+	},
+	{
+		"abr": "fibreskinsuit",
+		"price": 4667,
+		"category": "Armor",
+		"defname": "Apparel_NanoSkin"
+	},
+	{
+		"abr": "fissionbattery",
+		"price": 12675,
+		"category": "Power",
+		"defname": "FissionBattery"
+	},
+	{
+		"abr": "floodlight",
+		"price": 808,
+		"category": "Furniture",
+		"defname": "GTFloodLight"
+	},
+	{
+		"abr": "gau-19",
+		"price": 10000,
+		"category": "Ranged weapons",
+		"defname": "RNGun_GAU19_HMG"
+	},
+	{
+		"abr": "gaussrifle",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DFGAUSSRifle_AMR"
+	},
+	{
+		"abr": "geniusimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Genius_Implant"
+	},
+	{
+		"abr": "ghastlyimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Ghastly_Implant"
+	},
+	{
+		"abr": "ghostimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Ghost_Implant"
+	},
+	{
+		"abr": "giantspidermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_GiantSpider"
+	},
+	{
+		"abr": "goldenrabbitimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_GoldenRabbit_Implant"
+	},
+	{
+		"abr": "greatflamebow",
+		"price": 242,
+		"category": "Ranged weapons",
+		"defname": "UncompromisingTribalFaction_GreatFlamebow"
+	},
+	{
+		"abr": "grinder",
+		"price": 5417,
+		"category": "Melee weapons",
+		"defname": "RNMelee_DFGrinder_Chainsaw"
+	},
+	{
+		"abr": "hasteimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Haste_Implant"
+	},
+	{
+		"abr": "havocimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_Havoc_Implant"
+	},
+	{
+		"abr": "hc-1shield",
+		"price": 4542,
+		"category": "Utility",
+		"defname": "Apparel_HC1Shield"
+	},
+	{
+		"abr": "irridiatedlongarmsmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_IrridiatedLongArms"
+	},
+	{
+		"abr": "lethalityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Lethality_Implant"
+	},
+	{
+		"abr": "longrangemissileturret",
+		"price": 29092,
+		"category": "Security",
+		"defname": "MissileTurret"
+	},
+	{
+		"abr": "longshotpp-10",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Longshot_PP10AMR"
+	},
+	{
+		"abr": "magneticcoil",
+		"price": 2000,
+		"category": "Manufactured",
+		"defname": "MagneticCoil"
+	},
+	{
+		"abr": "masteryimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Mastery_Implant"
+	},
+	{
+		"abr": "matterfabricator",
+		"price": 50558,
+		"category": "Production",
+		"defname": "Matterfab"
+	},
+	{
+		"abr": "meetingwhiteboard(charts)",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Whiteboard_B"
+	},
+	{
+		"abr": "meetingwhiteboard(graphs)",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "RH_Corpo_Whiteboard_A"
+	},
+	{
+		"abr": "mortalityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Mortality_Implant"
+	},
+	{
+		"abr": "mothermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_Mother"
+	},
+	{
+		"abr": "motlimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "DF_MOTL_Implant"
+	},
+	{
+		"abr": "mrg-5pistol",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "Gun_MRGPistol"
+	},
+	{
+		"abr": "mrg-5rifle",
+		"price": 4333,
+		"category": "Ranged weapons",
+		"defname": "Gun_MRGRifle"
+	},
+	{
+		"abr": "n-4controlimplant",
+		"price": 1167,
+		"category": "Voidtech",
+		"defname": "Void_SecronomControlChip"
+	},
+	{
+		"abr": "nanosuit",
+		"price": 24675,
+		"category": "Armor",
+		"defname": "Apparel_NanoSuit"
+	},
+	{
+		"abr": "nanosuithelmet",
+		"price": 9883,
+		"category": "Headgear",
+		"defname": "Apparel_NanoSuitHelmet"
+	},
+	{
+		"abr": "nerotonin-2bserum",
+		"price": 433333,
+		"category": "Nerotonin serum",
+		"defname": "RH2_Nerotonin2b_Implant"
+	},
+	{
+		"abr": "nerotonin-4bserum",
+		"price": 833333,
+		"category": "Nerotonin serum",
+		"defname": "RH2_Nerotonin4b_Implant"
+	},
+	{
+		"abr": "nerotonin-8b",
+		"price": 4667,
+		"category": "Misc",
+		"defname": "RH_Nerotonin8B"
+	},
+	{
+		"abr": "nerotonin-vserum",
+		"price": 416667,
+		"category": "Nerotonin serum",
+		"defname": "RH2_NerotoninV_Implant"
+	},
+	{
+		"abr": "ocdefensepistol",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCPDPistol"
+	},
+	{
+		"abr": "ocdefenserifle",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCPDRifle"
+	},
+	{
+		"abr": "orioncombatvest",
+		"price": 1333,
+		"category": "Armor",
+		"defname": "Apparel_OCCombatVest"
+	},
+	{
+		"abr": "orioncorphelmet",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "Apparel_OCHelmet"
+	},
+	{
+		"abr": "orioncorppants",
+		"price": 83,
+		"category": "Misc",
+		"defname": "Apparel_OCPants"
+	},
+	{
+		"abr": "orioncorpshirt",
+		"price": 167,
+		"category": "Misc",
+		"defname": "Apparel_OCShirt"
+	},
+	{
+		"abr": "orionexoskeleton",
+		"price": 5000,
+		"category": "Bionic",
+		"defname": "OCExo"
+	},
+	{
+		"abr": "orionrocketlauncher",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCRocket"
+	},
+	{
+		"abr": "pharmaceuticaltable",
+		"price": 5750,
+		"category": "Production",
+		"defname": "PharmaTable"
+	},
+	{
+		"abr": "prosperityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Prosperity_Implant"
+	},
+	{
+		"abr": "re-ambulationpod",
+		"price": 12458,
+		"category": "Furniture",
+		"defname": "ambTable"
+	},
+	{
+		"abr": "reapermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_Reaper"
+	},
+	{
+		"abr": "redwine",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "RH_RedWine"
+	},
+	{
+		"abr": "roboticassembler",
+		"price": 14475,
+		"category": "Production",
+		"defname": "RobAssem"
+	},
+	{
+		"abr": "roidhulkmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF2_RoidHulk"
+	},
+	{
+		"abr": "scrutinyimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Scrutiny_Implant"
+	},
+	{
+		"abr": "serum",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Serum"
+	},
+	{
+		"abr": "silicon",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "Silicon"
+	},
+	{
+		"abr": "smokebomb",
+		"price": 41,
+		"category": "Utility",
+		"defname": "UncompromisingTribalFaction_Apparel_SmokeBomb"
+	},
+	{
+		"abr": "speedskinsuit",
+		"price": 4667,
+		"category": "Armor",
+		"defname": "Apparel_NanoSpeed"
+	},
+	{
+		"abr": "stalkermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF2_Stalker"
+	},
+	{
+		"abr": "superseducerimplant",
+		"price": 3717,
+		"category": "Bionic",
+		"defname": "RH_AestheticShaper"
+	},
+	{
+		"abr": "tendrilmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_Tendril"
+	},
+	{
+		"abr": "titanmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_Titan"
+	},
+	{
+		"abr": "titanium",
+		"price": 53,
+		"category": "Raw resources",
+		"defname": "Titanium"
+	},
+	{
+		"abr": "trinityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Trinity_Implant"
+	},
+	{
+		"abr": "ultraboostimplant",
+		"price": 25000,
+		"category": "Elite collection",
+		"defname": "DF_UltraBoost_Implant"
+	},
+	{
+		"abr": "v.o.i.d.helmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "RHApparel_VOIDReactive_Helmet"
+	},
+	{
+		"abr": "v.o.i.d.implant",
+		"price": 58333,
+		"category": "Voidtech",
+		"defname": "DF_Voidtech_Implant"
+	},
+	{
+		"abr": "v.o.i.d.reactive",
+		"price": 8333,
+		"category": "Fairview armor",
+		"defname": "RHApparel_VOIDReactive_PowerArmor"
+	},
+	{
+		"abr": "vengeanceguard",
+		"price": 41667,
+		"category": "Fairview armor",
+		"defname": "RHApparel_VengeanceGuard_PowerArmor"
+	},
+	{
+		"abr": "versatilityimplant",
+		"price": 4167,
+		"category": "Epic collection",
+		"defname": "DF_Versatility_Implant"
+	},
+	{
+		"abr": "voidtechaiimplant",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "VOIDBrain_Implant"
+	},
+	{
+		"abr": "voidtecharm",
+		"price": 5333,
+		"category": "Voidtech",
+		"defname": "RH2_VOIDArchotechArm"
+	},
+	{
+		"abr": "voidtechear",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicEar"
+	},
+	{
+		"abr": "voidtecheye",
+		"price": 7500,
+		"category": "Voidtech",
+		"defname": "RH2_VOIDArchotechEye"
+	},
+	{
+		"abr": "voidtechhalf-cycler",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDCircadianHalfCycler"
+	},
+	{
+		"abr": "voidtechheart",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicHeart"
+	},
+	{
+		"abr": "voidtechkidney",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicKidney"
+	},
+	{
+		"abr": "voidtechleg",
+		"price": 7500,
+		"category": "Voidtech",
+		"defname": "RH2_VOIDArchotechLeg"
+	},
+	{
+		"abr": "voidtechliver",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicLiver"
+	},
+	{
+		"abr": "voidtechlung",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicLung"
+	},
+	{
+		"abr": "voidtechnose",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDAestheticNose"
+	},
+	{
+		"abr": "voidtechpowercell",
+		"price": 166667,
+		"category": "Special",
+		"defname": "RH_VOIDPowerCell"
+	},
+	{
+		"abr": "voidtechskin",
+		"price": 4667,
+		"category": "Voidtech apparel",
+		"defname": "RHApparel_VOID_SpeedSkin"
+	},
+	{
+		"abr": "voidtechspine",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicSpine"
+	},
+	{
+		"abr": "voidtechstomach",
+		"price": 3333,
+		"category": "Voidtech",
+		"defname": "RH_VOIDBionicStomach"
+	},
+	{
+		"abr": "voidtechsuit",
+		"price": 742,
+		"category": "Voidtech apparel",
+		"defname": "RHApparel_VOID_BusinessSuit"
+	},
+	{
+		"abr": "volatileimplant",
+		"price": 25000,
+		"category": "Elite collection",
+		"defname": "DF_Volatile_Implant"
+	},
+	{
+		"abr": "volatileleapermeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_VolatileLeaper"
+	},
+	{
+		"abr": "wraithcannon",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "RNGun_WraithCannon_HMG"
+	},
+	{
+		"abr": "wraithmeat",
+		"price": 3,
+		"category": "VOID monsters",
+		"defname": "Meat_RH_DF_Wraith"
+	},
+	{
+		"abr": "x-duskimplant",
+		"price": 25000,
+		"category": "Elite collection",
+		"defname": "DF_XDusk_Implant"
+	},
+	{
+		"abr": "x-hyperimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XHyper_Implant"
+	},
+	{
+		"abr": "x-ironskinimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XIronskin_Implant"
+	},
+	{
+		"abr": "x-perceptionimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XPerception_Implant"
+	},
+	{
+		"abr": "x-violenceimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XViolence_Implant"
+	}
 	],
-	"total": 1554
+	"total": 1705
 }
