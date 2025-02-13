@@ -48,42 +48,6 @@
     "version": null
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.5.0"
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy (Unofficial Update)",
     "steamId": null,
@@ -384,12 +348,6 @@
     "version": null
   },
   {
-    "author": "Rainbeau Flambe and Jamaican Castle",
-    "name": "Fertile Fields 1.5",
-    "steamId": "3225843229",
-    "version": "1.0.8875.326"
-  },
-  {
     "author": "Hazzer",
     "name": "Fish Traps",
     "steamId": "2594468074",
@@ -452,6 +410,66 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ricky and Kurtus_Mob",
+    "name": "The Brotherhood Compendium \"Continued\"",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.5.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "SamBucher",
+    "name": "A Dog Said... Animal Prosthetics 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Albion",
+    "name": "Sparkling Worlds Addon - Blue Moon Corp - Standalone Addon",
     "steamId": null,
     "version": null
   }
